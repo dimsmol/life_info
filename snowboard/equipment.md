@@ -41,7 +41,7 @@
 	* ask to set bindings in store
 	* be sure are you regular or goofy (or maybe prefer dusk stance)
 	* angles 15/0 or 15/5 are ok for starter
-* boots must match bindings
+* boots must match bindings and must be good
 	* it's better if they have the same manufacturer (for best fit)
 * helmet + goggles must be bought together to match one to other
 	* helmet must fit well
