@@ -4,9 +4,21 @@
 
 * Burton
 * GNU
-* F2
-* LibTech
-* Nidecker
+* LibTechnologies
+* Salomon
+* Capita
+* Smokin
+* Nitro
+* Option
+* Unity
+* NeverSummer
+* Bataleon
+
+### less expensive
+
+* Technine
+* Sapient
+* Rome
 
 ## Cover
 
@@ -17,16 +29,24 @@ But for girls wheels will be more convenient.
 ## Bindings
 
 * Burton
+* Nitro
+* Forum
+* Flux
+* Ride
+* Flow
+* Drake
 * GNU
-* F2
-* Nidecker
 
 ## Boots
 
 * Burton
 * Vans
-* F2
-* Nidecker
+* 32
+* Nitro
+* Northwave
+* Forum
+* DC
+* Salomon
 
 ## Jacket
 
@@ -48,7 +68,7 @@ See Jacket
 
 Buy ones with big cuffs and bone protection if available
 
-* Glance are awesome
+* Glance is awesome
 
 ## Balaklava, tube scarf
 
@@ -62,8 +82,6 @@ Buy ones with big cuffs and bone protection if available
 
 * Oakley
 * Dragon
-* Uvex ?
-* Casco ?
 
 ## Helmet
 
@@ -76,4 +94,4 @@ Manufacturer is not very important actually. But helmet must fit very well.
 ## Other protection
 
 Any.
-Can use rollerskating elbows and knees.
+Can use rollerskating protection for elbows and knees.

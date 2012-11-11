@@ -35,7 +35,7 @@
 * buy board first
 	* twin is good for starter
 	* banana is matter of taste
-	* size must be between chin and nose
+	* size must be between chin and nose ([more precisely](http://snowfaq.nm.ru/#q1p13))
 * cover must be a little bit greater than board
 	* ideally must easily fit boots and helmet - it's very convenient
 * bindings must match board
