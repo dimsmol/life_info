@@ -22,20 +22,19 @@
 
 ## additional (for Mountains)
 
-* radiostations - investigate!
+* radiostations (see [article](http://snowfaq.nm.ru/radio.html))
 * backpack (with back protection if available)
 * thermos
 * toolset (screwdriver, etc.)
 * sunglasses ?
 * warmer ?
-* ? - read more
 
 ## notes
 
 * buy board first
 	* twin is good for starter
 	* banana is matter of taste
-	* size must be between chin and nose ([more precisely](http://snowfaq.nm.ru/#q1p13))
+	* size must be between chin and nose (for more see [article](http://snowfaq.nm.ru/#q1p13))
 * cover must be a little bit greater than board
 	* ideally must easily fit boots and helmet - it's very convenient
 * bindings must match board
