@@ -14,6 +14,10 @@
 - put into boiling water, boil for 10-15 min
 - it's ready if you can pierce it with a fork
 
+## Buckwheat
+
+- 1 part of buckwheat + 2 parts of water
+
 ## Chickpeas
 
 - [src](http://skolkovarim.ru/krupy/recepty-vkusnyx-supov-iz-nuta.html)
@@ -21,9 +25,15 @@
 - put into a pot with water
 - make it boil, keep boiling for ~ 7 min
 - replace water with a fresh one
-- boil for ~ 40 min (may take much less if soaked for a whole night)
+- boil for ~ 40 min
 - add salt ~ 10 min before ready
 - remove water
+
+## Pork
+
+- _(opt)_ marinate in teriyaky or other sauce
+- heat up oven to 390F
+- wrap into foil, put into oven for 40-60 min
 
 ## Quinoa
 
