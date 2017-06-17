@@ -29,6 +29,14 @@
 - add salt ~ 10 min before ready
 - remove water
 
+## Millet
+
+- [src](http://woman365.ru/recipes/pshennaya-kasha/)
+- rinse well 3/4 of glass (150-180 ml) in hot water, drain
+- boil 500 ml of milk, add salt
+- put into boiling milk, cook slowly for ~ 30 min
+- add butter and sugar, keep under cover
+
 ## Pork
 
 - _(opt)_ marinate in teriyaky or other sauce
