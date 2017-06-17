@@ -47,7 +47,7 @@
 
 - _[src](http://skolkovarim.ru/krupy/i-dazhe-kinoa-mozhno-vkusno-prigotovit.html)_
 - soak for several hours
-- put 1 part of quinoa + 2 part of water into a pot
+- put 1 part of quinoa + 2 parts of water into a pot
 - make it boil, add salt, keep boiling for ~ 15 min
 
 ## Salmon
