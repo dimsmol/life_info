@@ -1,3 +1,12 @@
+## Amaranth Grain
+
+* [src](https://givzdorov.com/pravilnoe-pitanie/rezepty/blyuda-iz-amaranta-prosto-obedenie/)
+* fry for ~ 7 min on small amount of oil
+* add 2 parts of hot water
+  * be careful, it will almost explode
+* boil for ~ 30 min
+* leave under cover to let it absorb water
+
 ## Broccoli
 
 - _[src](http://ru.wikihow.com/%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D1%8C-%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8)_
