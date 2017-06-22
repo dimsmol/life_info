@@ -1,11 +1,20 @@
 ## Amaranth Grain
 
-* [src](https://givzdorov.com/pravilnoe-pitanie/rezepty/blyuda-iz-amaranta-prosto-obedenie/)
-* fry for ~ 7 min on small amount of oil
-* add 2 parts of hot water
-  * be careful, it will almost explode
-* boil for ~ 30 min
-* leave under cover to let it absorb water
+- [src](https://givzdorov.com/pravilnoe-pitanie/rezepty/blyuda-iz-amaranta-prosto-obedenie/)
+- fry for ~ 7 min on small amount of oil
+- add 2 parts of hot water
+  - be careful, it will almost explode
+- boil for ~ 30 min
+- leave under cover to let it absorb water
+
+## Barley
+
+- [src](http://ru.wikihow.com/%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D1%8F%D1%87%D0%BC%D0%B5%D0%BD%D1%8C)
+- add 2-3 parts of water to barley
+- heat until it boils, add salt
+- boil for 30 min
+- keep under cover for 15 min
+- _(opt)_ add oil / spice when serving
 
 ## Broccoli
 
@@ -37,6 +46,14 @@
 - boil for ~ 40 min
 - add salt ~ 10 min before ready
 - remove water
+
+## Farro
+
+- [src](http://woman365.ru/recipes/kasha-iz-polby/)
+- wash in water
+- boil 2 parts of water, add salt
+- put into boiling water, boil for 30 min
+- _(opt)_ add butter when serving
 
 ## Millet
 
