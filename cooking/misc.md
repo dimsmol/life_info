@@ -55,10 +55,15 @@
 - add salt ~ 10 min before ready
 - remove water
 
+## Corn
+
+- boil water
+- put corn, keep boiling for ~ 20 min
+- remove leaves
+
 ## Farro
 
 - [src](http://woman365.ru/recipes/kasha-iz-polby/)
-- rinse in water
 - boil 2 parts of water
 - put into boiling water, boil for 30 min, add salt
 - _(opt)_ add butter when serving
