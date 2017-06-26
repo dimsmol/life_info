@@ -16,6 +16,10 @@
 - keep under cover for 15 min
 - _(opt)_ add oil / spice when serving
 
+## Beet
+
+- put into water, make it boil, boil for 2-3 hours
+
 ## Broccoli
 
 - _[src](http://ru.wikihow.com/%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D1%8C-%D0%B1%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8)_
