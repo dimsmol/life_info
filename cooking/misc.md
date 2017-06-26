@@ -18,6 +18,7 @@
 
 ## Beet
 
+- wash with brush
 - put into water, make it boil, boil for 2-3 hours
 
 ## Broccoli
