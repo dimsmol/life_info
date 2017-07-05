@@ -1,9 +1,7 @@
 ## Amaranth Grain
 
-- [src](https://givzdorov.com/pravilnoe-pitanie/rezepty/blyuda-iz-amaranta-prosto-obedenie/)
-- fry for ~ 7 min on small amount of oil
-- add 2 parts of hot water
-  - be careful, it will almost explode
+- heat up 2 parts of water
+- put grain into hot water, make it boil, add salt
 - boil for ~ 30 min
 - leave under cover to let it absorb water
 
