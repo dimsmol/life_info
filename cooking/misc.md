@@ -47,6 +47,12 @@
 - separate infloriscences, rinse well
 - put into boiling water for 7 min, don't cover
 
+## Chicken
+
+- _(opt)_ marinate in teriyaky or other sauce
+- heat up oven to 390F
+- wrap into foil, put into oven for 40 min
+
 ## Chickpeas
 
 - [src](http://skolkovarim.ru/krupy/recepty-vkusnyx-supov-iz-nuta.html)
@@ -90,7 +96,7 @@
 ## Pork
 
 - _(opt)_ marinate in teriyaky or other sauce
-- heat up oven to 390F
+- heat up oven to 390F (alt: 485F)
 - wrap into foil, put into oven for 40-60 min
 
 ## Quinoa
