@@ -112,3 +112,15 @@
 - _(opt)_ marinate in teriyaky or other sauce
 - heat up oven to 450F
 - wrap into foil, put into oven for 20 min
+
+## Vegetable Soup
+
+- if use lentils or grain or mix, put in water and cook for 20-30 min
+- cut onion, potatoes and tomatoes into cubes
+- cut carrots into strips
+- add potatoes into boiling water with grain, add salt
+- stew onion and carrots with oil, when ready add garlic, dill, pepper and let it stew a little bit more
+- when potatoes are ready, add stew, also add cauliflower or broccoli
+- stew tomatoes, add when ready
+- boil until everything is ready, let it stay under cover for 15 min
+- _opt_ boil chicken separately, add when serving
