@@ -1,8 +1,8 @@
 ## Buckwheat
 
 - in parallel:
-  - make a [pork stew](#pork-stew-component)
-  - make a [vegetable stew](#vegetable-stew-component)
+  - make a [pork stew component](#pork-stew-component)
+  - make a [vegetable stew component](#vegetable-stew-component)
   - fry mushrooms in oil
 - put everything together
 - add water, make it boil
@@ -29,7 +29,7 @@
 
 ## Salmon Creamy Soup
 
-- make a [vegetable stew](#vegetable-stew-component)
+- make a [vegetable stew component](#vegetable-stew-component)
 - cut and boil potatoes
 - when potatoes are almost ready, add vegetable stew
 - cut and add salmon, boil for 10 min
@@ -39,7 +39,7 @@
 ## Vegetable Soup
 
 - if use lentils or grain or mix, put in water and cook for 20-30 min
-- make a [vegetable stew](#vegetable-stew-component)
+- make a [vegetable stew component](#vegetable-stew-component)
 - cut potatoes and add into boiling water with grain, add salt
 - when potatoes are almost ready, add vegetable stew, also add cauliflower or broccoli
 - boil until everything is ready
@@ -48,8 +48,8 @@
 ## Vegetable Stew
 
 - in parallel:
-  - make a [pork stew](#pork-stew-component)
-  - make a [vegetable stew](#vegetable-stew-component)
+  - make a [pork stew component](#pork-stew-component)
+  - make a [vegetable stew component](#vegetable-stew-component)
   - fry mushrooms in oil
 - cut and add to pork stew potatoes and turnips, make it boil
 - when potatoes are almost ready, cut and add zucchini (yellow ones), add mushrooms and vegetable stew
