@@ -1,33 +1,34 @@
 # Equipment
 
-- board
-- cover for board
-- bindings
-- boots
-- jacket
-- fleece
-- pants
-- gloves (preferably with wrists protection)
-- balaсlava
-- tube scarf
-- underwear
-- socks
-- goggles
+- [ ] board
+- [ ] cover for board
+- [ ] bindings
+- [ ] boots
+- clothes:
+	- [ ] jacket
+	- [ ] fleece
+	- [ ] pants
+	- [ ] balaсlava
+	- [ ] tube scarf
+	- [ ] underwear
+	- [ ] socks
+	- [ ] gloves (preferably with wrists protection)
 - protection:
-	- helmet
-	- shorts
-	- elbows
-	- knees
-	- wrists (if gloves have no wrists protection)
+	- [ ] helmet
+		- [ ] goggles
+	- [ ] shorts
+	- [ ] elbows
+	- [ ] knees
+	- [ ] wrists (if gloves have no wrists protection)
 
 ## additional (for Mountains)
 
-- radios (see [article](http://snowfaq.nm.ru/radio.html))
-- backpack (preferably with back protection)
-- thermos
-- toolset (screwdriver, etc.)
-- sunglasses ?
-- warmer ?
+- [ ] radios (see [article](http://snowfaq.nm.ru/radio.html))
+- [ ] backpack (preferably with back protection)
+- [ ] thermos
+- [ ] toolset (screwdriver, etc.)
+- [ ] sunglasses ?
+- [ ] warmer ?
 
 ## notes
 
