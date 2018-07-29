@@ -1,10 +1,10 @@
 ## Millet
 
-- Same as in [breakfast](breakfast.md#Millet), but with water instead of milk
+- Same as in [breakfast](breakfast.md#millet), but with water instead of milk
 
 ## Oats
 
-- Same as in [breakfast](breakfast.md#Oats), but with water instead of milk
+- Same as in [breakfast](breakfast.md#oats), but with water instead of milk
 
 ## Quinoa
 

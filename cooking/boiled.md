@@ -53,4 +53,4 @@
 
 ## Salmon Boiled
 
-- see [main](main.md#Salmon%20Boiled)
+- see [main](main.md#salmon-boiled)
