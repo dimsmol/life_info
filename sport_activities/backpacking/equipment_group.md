@@ -1,0 +1,109 @@
+- navigation
+  - [ ] map
+    - [ ] protective case
+  - [ ] [compass](https://www.rei.com/product/890930/suunto-m-3-d-leader-compass) (try to find something better?)
+  - _(opt)_ [ ] GPS
+- light / electricity
+  - [ ] [lantern](https://www.rei.com/product/109954/petzl-noctilight-headlamp-case)
+  - _(opt)_ [ ] [candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit)
+    - [ ] [candles](https://www.rei.com/product/410128/uco-candle-lantern-candles)
+  - [ ] extra batteries
+  - [ ] [recharger](https://www.rei.com/product/123286/goal-zero-venture-70-recharger)
+- first aid kit
+  - [ ] magnifying glass
+  - [ ] tweezers
+  - [ ] small scissors
+  - [ ] small mirror
+  - TODO
+- fire
+  - [ ] [stormproof matches](https://www.rei.com/product/106184/uco-stormproof-match-kit) in waterproof container
+  - [ ] [strike igniter](https://www.rei.com/product/101108/msr-strike-igniter)
+  - [ ] lighter (BIC is ok)
+  - [ ] fire starter
+    - [ ] alcohol-based [hand sanitizer gel](https://www.instacart.com/vons/products/189744-signature-home-hand-sanitizer-2-fl-oz) can be used as one
+- tools
+  - [ ] [knife](https://www.amazon.com/gp/product/B005EOJAKI/)
+    - see also [knives](knives.md)
+  - [ ] multi-tool
+  - [ ] cord
+  - [ ] sewing kit
+  - [ ] duct tape
+- water
+  - [filter](https://www.rei.com/product/103071/sawyer-squeeze-water-filter-plus)
+  - [ ] backup chemical treatment
+    - [chlorine](https://www.rei.com/product/736898/potable-aqua-chlorine-dioxide-tablets-package-of-30) or [iodine](https://www.rei.com/product/406032/potable-aqua-iodine-and-taste-neutralizer-tablets)
+    - WARN: iodine doesn't help against Cryptosporidium
+    - NOTE: chlorine treated water can be used [after 30 min](https://www.rei.com/product/695229/katadyn-micropur-purification-tablets-package-of-30), but needs 4 hours to help against Cryptosporidium
+  - [ ] [folding bucket](https://www.rei.com/product/847589/sea-to-summit-ultra-sil-folding-bucket) (or [this one](https://www.rei.com/product/782973/sea-to-summit-folding-bucket-10-liters))
+- [ ] tent: [big agnes](https://www.rei.com/product/110208/big-agnes-copper-spur-hv-ul-2-mtnglo-tent), [hubba hubba](https://www.rei.com/product/863076/msr-hubba-hubba-nx-2-person-tent), etc.
+  - NOTE: 2 person is pretty small, take a [look at 3](https://www.rei.com/product/110210/big-agnes-copper-spur-hv-ul-3-mtnglo-tent)?
+  - [ ] footprint
+  - [ ] repair kit
+  - [ ] better stakes - [steel](https://www.rei.com/product/693154/rei-co-op-steel-stake) or [ground hog](https://www.rei.com/product/682543/msr-ground-hog-stake)
+    - WARN: ground hog can be hard to pull out
+    - NOTE: there is also mini ground hog, cyclone, [etc.](https://www.rei.com/c/tent-stakes)
+  - _(opt)_ [ ] [hammer](https://www.rei.com/product/102781/msr-tent-stake-hammer) (or [this one](https://www.rei.com/product/729798/coghlans-tent-peg-mallet-puller))
+- [ ] [stove](https://www.msrgear.com/stoves/stove-systems/windburner-duo-system)
+  - WARN: for cold conditions use one with [inverted canister](https://www.msrgear.com/stoves/canister-stoves/windpro-ii) (or [this one](https://www.msrgear.com/stoves/canister-stoves/whisperlite-universal))
+  - [ ] fuel
+    - WARN: for cold conditions read [this](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
+  - if *not* integrated:
+    - [ ] [wind screen](https://www.rei.com/product/406084/msr-windscreen-and-heat-reflector)
+    - [ ] pot, one of: [alluminium](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
+    - _(opt)_ [ ] [heat exchanger](https://www.msrgear.com/cookware/heat-exchanger)
+- food
+  - [ ] [electrolytes](https://www.rei.com/product/107488/saltstick-fastchews-chewable-electrolyte-tablets) (lemon-lime is ok)
+  - [ ] _(opt)_ fish
+    - [salmon](https://www.rei.com/product/714659/seabear-ready-to-eat-wild-salmon-35-oz)
+    - NOTE: there are options like this in SafeWay (salmon, tuna) - not really tasty, but ok
+  - [ ] protein
+    - [protein mix](https://www.rei.com/product/752836/hammer-nutrition-recoverite-drink-mix-single-serving) or [this one](https://www.amazon.com/gp/product/B06XWYX4GT/)
+    - [clif protein bar](https://www.rei.com/product/716080/clif-builders-bar), [one more](https://www.rei.com/product/117611/clif-whey-protein-bar), they are all pretty good
+  - [ ] [energy gel](https://www.rei.com/product/610028/gu-energy-gel) (mostly just carbs)
+  - [ ] freeze dried
+    - WARN: what marked 2 servings is usually actually more like 1.5 serving
+    - mountain house
+      - NOTE: safe choice, almost all reviews are positive (still check [rejected](rejected.md))
+      - [scrambled eggs with ham and peppers](https://www.rei.com/product/693933/mountain-house-scrambled-eggs-with-ham-and-peppers-2-servings)
+      - [chicken noodle casserole](https://www.rei.com/product/115297/mountain-house-homestyle-chicken-noodle-casserole-3-servings)
+      - [italian style pepper steak](https://www.amazon.com/gp/product/B00RJM2GX6/)
+    - backpacker's pantry
+      - WARN: check reviews! below are some ok ones
+      - [potato stew with beef](https://www.rei.com/product/801229/backpackers-pantry-shepherds-potato-stew-with-beef-2-servings)
+      - [fettuccini alfredo with chicken](https://www.rei.com/product/801227/backpackers-pantry-fettuccini-alfredo-with-chicken-2-servings)
+- [ ] [bear canister](https://www.rei.com/product/624081/garcia-bear-resistant-container) (or expensive [carbon one](https://www.wild-ideas.net/))
+- paperwork
+  - [ ] waterproof container for papers and cellphones
+  - [ ] permits
+  - [ ] paper and pen
+  - _(opt)_ [ ] guidebook
+- sanitation / personal care
+  - [ ] [trowel](https://www.rei.com/product/131611/thetentlab-the-deuce-2-backcountry-trowel)
+  - [ ] toilet paper (remove middle carton and flatten)
+  - [ ] [wet wipes](https://www.rei.com/product/879973/sea-to-summit-wilderness-wipes)
+    - NOTE: regular one with cap can even be better
+  - [ ] [facial tissue](https://www.burpy.com/tom-thumb/signature-home-softly-facial-tissue-pocket-pack-2-ply/product-detail/1939530) (pocket pack)
+  - [ ] [hand sanitizer](https://www.instacart.com/vons/products/189744-signature-home-hand-sanitizer-2-fl-oz)
+  - [ ] comb
+  - [ ] toothpaste (travel size)
+  - [ ] [biodegradable soap](https://www.rei.com/product/692852/campsuds-in-nalgene-bottle-4-oz) (or [with citronella](https://www.rei.com/product/654041/campsuds-soap-with-citronella-4-oz) or [this one](https://www.rei.com/product/799977/sea-to-summit-citronella-wilderness-wash-soap-3-fl-oz))
+    - [ ] [convenient squeeze bottle](https://www.rei.com/product/131773/humangear-gotoob-small-squeeze-bottle-17-fl-oz)
+  - [ ] [sunscreen](https://www.neutrogena.com/sun/sun-adult/sport-face-oil-free-lotion-sunscreen-broad-spectrum-spf-70/6887025.html)
+    - NOTE: look for SPF 50 or more, uva + uvb (broad spectrum), water resistant
+  - [ ] [insect repellent](https://www.rei.com/product/828908/repel-lemon-eucalyptus-pump-spray-insect-repellent-4-fl-oz)
+    - WARN: for especially bad conditions consider [Picaridin](https://www.rei.com/product/887628/sawyer-picaridin-insect-repellent-lotion-4-fl-oz) or [DEET](https://www.rei.com/product/799528/sawyer-jungle-juice-100-pump-spray-insect-repellent-98-percent-deet-2-fl-oz) (may damage some plastics and fabrics) or [Permethrin](https://www.rei.com/product/768970/sawyer-permethrin-pump-spray-24-oz) (for clothes, deadly for cats!!!)
+- trip itinerary
+  - [ ] left one with friend
+  - [ ] put one under car seat
+- emergency
+  - [ ] [signal mirror](https://www.amazon.com/gp/product/B01M215N97/)
+    - NOTE: try smaller one?
+    - [ ] [pouch](https://www.amazon.com/gp/product/B0017D0ILA/)
+- _(opt)_ [ ] binoculars
+- _(opt)_ [ ] [warmer](https://www.rei.com/product/760936/grabber-hand-warmers-10-pairs)
+  - NOTE: don't look to be reliable, worth to look for other options
+- bags, containers, straps - if needed
+  - small nalgene bottles: [4oz](https://www.rei.com/product/402055/nalgene-polyethylene-bottle-4-fl-oz), [2oz](https://www.rei.com/product/402056/nalgene-polyethylene-bottle-2-fl-oz), [2oz jar](https://www.rei.com/product/892693/nalgene-straight-side-jar-2-fl-oz), [1oz](https://www.rei.com/product/402057/nalgene-polyethylene-bottle-1-fl-oz)
+  - squeeze bottles: [1.7oz](https://www.rei.com/product/131773/humangear-gotoob-small-squeeze-bottle-17-fl-oz), etc.
+  - bags: [small](https://www.rei.com/product/127986/rei-co-op-expandable-packing-cube-small), [medium and large](https://www.rei.com/product/127780/rei-co-op-expandable-packing-cube-set-mediumlarge), etc.
+  - [straps](https://www.rei.com/product/848270/sea-to-summit-alloy-buckle-34-accessory-straps-package-of-2)
