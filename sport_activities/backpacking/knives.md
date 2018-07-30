@@ -1,6 +1,18 @@
-TODO: organize this stuff
-
-Morakniv Garberg https://www.amazon.com/Morakniv-Garberg-Sandvik-Stainless-4-3-inch/dp/B01I1GITMA?ref=ast_p_ei&th=1
-Bark River Bravo 1 https://www.amazon.com/Bark-River-Canvas-Micarta-Handle/dp/B00AHRGGAE/ref=sr_1_1?srs=8924781011&ie=UTF8&qid=1531550491&sr=8-1
-GATOR PREMIUM FIXED DROP POINT https://www.gerbergear.com/Knives/Fixed/Gator-Premium-Fixed-Drop-Point_30-001083
-MOMENT FIXED BLADE, DROP POINT https://www.gerbergear.com/Knives/Fixed/Moment-Fixed-DP_31-002197
+- NOTE: with freeze dried food and canister stove you don't really need knife a lot, so simplest thing that works and can help in emergency should be enough, still the list below also includes more expensive options you may like
+- NOTE: look for:
+  - fixed blade (more convenient)
+  - drop point (best for outdoor needs)
+  - stainless steel
+    - WARN: avoid carbon steel - it needs care and gets rusty easily
+  - non-serrated
+    - most serrated knives are serrated in a short area near the handle, which makes them worse for precision job and doesn't help much with anything else
+  - sturdy
+  - good sheath
+- morakniv
+  - [companion](https://www.amazon.com/gp/product/B005EOJAKI/) - cheapest option that works
+  - [garberg](https://www.amazon.com/Morakniv-Garberg-Sandvik-Stainless-4-3-inch/dp/B01I1GITMA)
+- gerberg
+  - [moment](https://www.gerbergear.com/Knives/Fixed/Moment-Fixed-DP_31-002197) - also cheap
+  - [gator](https://www.gerbergear.com/Knives/Fixed/Gator-Premium-Fixed-Drop-Point_30-001083)
+- bark river
+  - [bravo 1](https://www.amazon.com/Bark-River-Canvas-Micarta-Handle/dp/B00AHRGGAE/)

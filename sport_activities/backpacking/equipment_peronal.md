@@ -38,33 +38,57 @@
   - [ ] credit card
   - [ ] money in cash
 - personal care
+  - [ ] toothbrush
   - [ ] [head net](https://www.rei.com/product/780999/sea-to-summit-head-net)
     - WARN: need hat with brims to make it work
   - [ ] [towel](https://www.rei.com/product/127505/rei-co-op-multi-towel)
     - NOTE: choose size L for full body
-- [ ] [boots](https://www.rei.com/product/895632/la-sportiva-trango-trk-gtx-hiking-boots-mens) (size 10.5)
-  - WARN: some people reported water resistance problems, may want to try some other model next time
-  - NOTE: La Sportiva is well represented in Saratoga REI store
-  - NOTE: depending on conditions may prefer:
-    - [low profile](https://www.rei.com/product/129503/la-sportiva-spire-gtx-hiking-shoes-mens)
-    - [non-waterproof](https://www.rei.com/product/110660/la-sportiva-wildcat-trail-running-shoes-mens) (didn't last long, try [raptor](https://www.rei.com/product/848243/la-sportiva-ultra-raptor-trail-running-shoes-mens) next time?)
+- footwear
+  - [ ] [boots](https://www.rei.com/product/895632/la-sportiva-trango-trk-gtx-hiking-boots-mens) (size 10.5)
+    - WARN: some people reported water resistance problems, may want to try some other model next time
+    - NOTE: La Sportiva is well represented in Saratoga REI store
+    - NOTE: depending on conditions may prefer:
+      - [low profile](https://www.rei.com/product/129503/la-sportiva-spire-gtx-hiking-shoes-mens)
+      - [non-waterproof](https://www.rei.com/product/110660/la-sportiva-wildcat-trail-running-shoes-mens) (didn't last long, try [raptor](https://www.rei.com/product/848243/la-sportiva-ultra-raptor-trail-running-shoes-mens) next time?)
   - [ ] [gaiters](https://www.rei.com/product/852794/outdoor-research-rocky-mountain-low-gaiters)
     - NOTE: for high boots they are useful only in rainy / muddy conditions
     - NOTE: for low boots may need some other model
   - [ ] [socks](https://www.rei.com/product/894205/smartwool-phd-outdoor-light-crew-socks-mens) (size M?)
-    - NOTE: lifetime warranty: send old back to manufacturer, get new ones (pay for delivery only)
+    - NOTE: look for wool or synthetic
+    - NOTE: most wool socks have lifetime warranty: send old back to manufacturer, get new ones (pay for delivery only)
+    - [ ] spare socks
     - [ ] _(opt)_ [line socks](https://www.rei.com/product/879245/smartwool-anchor-line-socks-mens) (not sure how much useful)
+  - [ ] sandals TODO
+    - NOTE: for using both in camp and crossing rivers
 - clothes
-  - [ ] _(opt)_ [buff](https://www.rei.com/product/736217/buff-high-uv-coolmax-multifunctional-headwear)
-    - NOTE: different warmth options available
+  - top
+    - [ ] synthetic T-shirts
+        - [ ] include long sleeve for sun protection
+    - [ ] fleece
+  - bottom
+    - [ ] pants
+    - [ ] shorts
+    - [ ] synthetic underpants
+    - [ ] swimming trunks
+  - warm
+    - [ ] gloves
+    - [ ] hat
+    - [ ] _(opt)_ balaclava
+    - [ ] _(opt)_ fleece pants
   - underwear
     - [ ] [pants](https://www.rei.com/product/112045/smartwool-merino-150-long-underwear-bottoms-mens) (size M)
     - [ ] [top](https://www.rei.com/product/112042/smartwool-merino-150-pattern-crew-base-layer-long-sleeve-top-mens) (size M)
-- rain gear
+  - [ ] _(opt)_ [buff](https://www.rei.com/product/736217/buff-high-uv-coolmax-multifunctional-headwear) or bandana
+    - NOTE: different warmth options available
+- rain wear
+  - [ ] jacket
   - [ ] [pants](https://www.rei.com/product/865002/arcteryx-beta-sl-rain-pants-mens-short) (size M)
+- [ ] [trekking poles](trekking_poles.md)
 - emergency
   - [ ] [whistle](https://www.rei.com/product/100521/whistles-for-life-tri-power-whistle)
   - [ ] [reflective blanket](https://www.rei.com/product/813512/sol-emergency-blanket)
 - misc
+  - [ ] outdoor watch, with altimeter if available
   - [ ] _(opt)_ [seat pad](https://www.rei.com/product/829881/therm-a-rest-z-seat-pad)
-- head net
+- [ ] _(see note below)_ bear spay
+  - WARN: forbidden in most CA area, but may need it where there are grizzly bears
