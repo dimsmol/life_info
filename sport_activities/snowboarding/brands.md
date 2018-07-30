@@ -70,7 +70,7 @@ Buy ones with big cuffs and bone protection if available
 
 - Glance is awesome
 
-## Balaklava, tube scarf
+## Balaclava, tube scarf
 
 - Airhole is awesome
 
@@ -90,7 +90,7 @@ Buy ones with big cuffs and bone protection if available
 - The same as manufacturer of goggles is ok too (if goggles are good)
 - Try full face variant?
 
-Manufacturer is not very important actually. But helmet must fit very well.
+Manufacturer is not very important, but helmet must fit very well.
 
 ## Other protection
 
