@@ -12,7 +12,7 @@
     - WARN: choose proper size - regular or short (short is shorter, but more compact)
     - NOTE: may prefer inflatable, but I personally like this one
 - sun protection
-  - [ ] [hat](https://www.rei.com/product/767086/sunday-afternoons-adventure-hat)
+  - [ ] [hat](https://www.rei.com/product/767086/sunday-afternoons-adventure-hat) with brims and neck protection
   - [ ] [sunglasses](Pepper's Nightfall Polarized Sunglasses)
     - NOTE: look for uv-protected, polarized
     - [ ] [retainer](https://www.rei.com/product/892951/chums-slip-fit-rope-eyeglass-retainer)
@@ -52,8 +52,7 @@
   - [ ] [gaiters](https://www.rei.com/product/852794/outdoor-research-rocky-mountain-low-gaiters)
     - NOTE: for high boots they are useful only in rainy / muddy conditions
     - NOTE: for low boots may need some other model
-  - [ ] [socks](https://www.rei.com/product/894205/smartwool-phd-outdoor-light-crew-socks-mens) (size M?)
-    - NOTE: look for wool or synthetic
+  - [ ] [socks](https://www.rei.com/product/894205/smartwool-phd-outdoor-light-crew-socks-mens): wool or synthetic (size M?)
     - NOTE: most wool socks have lifetime warranty: send old back to manufacturer, get new ones (pay for delivery only)
     - [ ] spare socks
     - [ ] _(opt)_ [line socks](https://www.rei.com/product/879245/smartwool-anchor-line-socks-mens) (not sure how much useful)
@@ -71,7 +70,7 @@
   - warm
     - [ ] fleece
     - [ ] gloves
-    - [ ] hat
+    - [ ] hat: windstopper is great
     - [ ] _(opt)_ balaclava
     - [ ] _(opt)_ fleece pants
   - underwear
