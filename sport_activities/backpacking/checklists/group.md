@@ -22,7 +22,7 @@
     - WARN: for cold conditions read [this](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
   - [ ] long plastic spoon for pot
   - if *not* integrated:
-    - [ ] pot, one of: [alluminium](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
+    - [ ] pot, one of: [aluminum](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
     - [ ] _(opt)_ [wind screen](https://www.rei.com/product/406084/msr-windscreen-and-heat-reflector)
     - [ ] _(opt)_ [heat exchanger](https://www.msrgear.com/cookware/heat-exchanger)
 - tools
