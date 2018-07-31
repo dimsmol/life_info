@@ -1,0 +1,28 @@
+- [ ] [electrolytes](https://www.rei.com/product/107488/saltstick-fastchews-chewable-electrolyte-tablets) (lemon-lime is ok)
+- [ ] _(opt)_ fish
+  - [salmon](https://www.rei.com/product/714659/seabear-ready-to-eat-wild-salmon-35-oz)
+  - NOTE: there are options like this in SafeWay (salmon, tuna) - not really tasty, but ok
+- energy bars, gels, mix, etc.
+  - [ ] [protein mix](https://www.rei.com/product/752836/hammer-nutrition-recoverite-drink-mix-single-serving) or [this one](https://www.amazon.com/gp/product/B06XWYX4GT/)
+  - [ ] [protein bars](https://www.rei.com/product/716080/clif-builders-bar), [one more](https://www.rei.com/product/117611/clif-whey-protein-bar), they are all pretty good
+  - [ ] [energy bars](https://www.rei.com/product/604787/clif-energy-bar), [one more](https://www.rei.com/product/108105/clif-nut-butter-filled-bars)
+  - [ ] [energy gels](https://www.rei.com/product/610028/gu-energy-gel) (mostly just carbs)
+- [ ] nuts (pecans, almonds)
+- [ ] bread (dried pita or pumpernickel)
+- [ ] [biltong](https://eatbiltong.com/)
+- fruits
+  - [ ] fresh for first days
+  - [ ] dehydrated for longer time
+- [ ] [cocoa](https://www.amazon.com/Trader-Joes-Organic-Instant-Packets/dp/B00BT1CGYC) or [this one](https://www.instacart.com/ralphs/products/3328443-starbucks-marshmallow-hot-cocoa-mix-8-oz)
+  - [ ] _(opt)_ freeze dried milk
+- [ ] freeze dried
+  - WARN: what marked 2 servings is usually actually more like 1.5 serving
+  - mountain house
+    - NOTE: safe choice, almost all reviews are positive (still check [rejected](rejected.md))
+    - [scrambled eggs with ham and peppers](https://www.rei.com/product/693933/mountain-house-scrambled-eggs-with-ham-and-peppers-2-servings)
+    - [chicken noodle casserole](https://www.rei.com/product/115297/mountain-house-homestyle-chicken-noodle-casserole-3-servings)
+    - [italian style pepper steak](https://www.amazon.com/gp/product/B00RJM2GX6/)
+  - backpacker's pantry
+    - WARN: check reviews! below are some ok ones
+    - [potato stew with beef](https://www.rei.com/product/801229/backpackers-pantry-shepherds-potato-stew-with-beef-2-servings)
+    - [fettuccini alfredo with chicken](https://www.rei.com/product/801227/backpackers-pantry-fettuccini-alfredo-with-chicken-2-servings)

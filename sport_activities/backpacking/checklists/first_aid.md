@@ -1,0 +1,3 @@
+- [ ] magnifying glass
+- [ ] small mirror
+- TODO

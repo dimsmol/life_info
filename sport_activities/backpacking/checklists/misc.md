@@ -1,0 +1,5 @@
+- misc bags, containers, straps - if needed
+  - small nalgene bottles: [4oz](https://www.rei.com/product/402055/nalgene-polyethylene-bottle-4-fl-oz), [2oz](https://www.rei.com/product/402056/nalgene-polyethylene-bottle-2-fl-oz), [2oz jar](https://www.rei.com/product/892693/nalgene-straight-side-jar-2-fl-oz), [1oz](https://www.rei.com/product/402057/nalgene-polyethylene-bottle-1-fl-oz)
+  - squeeze bottles: [1.7oz](https://www.rei.com/product/131773/humangear-gotoob-small-squeeze-bottle-17-fl-oz), etc.
+  - bags: [small](https://www.rei.com/product/127986/rei-co-op-expandable-packing-cube-small), [medium and large](https://www.rei.com/product/127780/rei-co-op-expandable-packing-cube-set-mediumlarge), etc.
+  - [straps](https://www.rei.com/product/848270/sea-to-summit-alloy-buckle-34-accessory-straps-package-of-2)
