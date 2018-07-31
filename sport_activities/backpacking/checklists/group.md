@@ -15,10 +15,19 @@
   - [ ] lighter (BIC is ok)
   - [ ] fire starter
     - NOTE: in emergency, alcohol-based [hand sanitizer gel](https://www.instacart.com/vons/products/189744-signature-home-hand-sanitizer-2-fl-oz) can be used as one
+- [ ] [stove](https://www.msrgear.com/stoves/stove-systems/windburner-duo-system) (see also [stoves](../stoves.md))
+  - WARN: [issues to be aware of](https://adventuresinstoving.blogspot.com/2014/11/msr-windboiler-issues-known-and.html)
+  - WARN: for cold conditions use one with [inverted canister](https://www.msrgear.com/stoves/canister-stoves/windpro-ii) (or [this one](https://www.msrgear.com/stoves/canister-stoves/whisperlite-universal))
+  - [ ] fuel
+    - WARN: for cold conditions read [this](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
+  - [ ] long plastic spoon for pot
+  - if *not* integrated:
+    - [ ] pot, one of: [alluminium](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
+    - [ ] _(opt)_ [wind screen](https://www.rei.com/product/406084/msr-windscreen-and-heat-reflector)
+    - [ ] _(opt)_ [heat exchanger](https://www.msrgear.com/cookware/heat-exchanger)
 - tools
-  - [ ] [knife](https://www.amazon.com/gp/product/B005EOJAKI/)
-    - NOTE: see also [knives](knives.md)
-  - [ ] multi-tool
+  - [ ] [knife](https://www.amazon.com/gp/product/B005EOJAKI/) (see also [knives](../knives.md))
+  - [ ] [multi-tool](https://www.rei.com/product/136739/leatherman-wave-plus-multitool) (or [pocket version](https://www.rei.com/product/813346/leatherman-squirt-ps4-multi-tool))
   - [ ] cord 50'
   - [ ] sewing kit
   - [ ] duct tape
@@ -38,16 +47,6 @@
     - WARN: ground hog can be hard to pull out
     - NOTE: there is also mini ground hog, cyclone, [etc.](https://www.rei.com/c/tent-stakes)
   - _(opt)_ [ ] [hammer](https://www.rei.com/product/102781/msr-tent-stake-hammer) (or [this one](https://www.rei.com/product/729798/coghlans-tent-peg-mallet-puller))
-- [ ] [stove](https://www.msrgear.com/stoves/stove-systems/windburner-duo-system)
-  - WARN: for cold conditions use one with [inverted canister](https://www.msrgear.com/stoves/canister-stoves/windpro-ii) (or [this one](https://www.msrgear.com/stoves/canister-stoves/whisperlite-universal))
-  - WARN: [issues to be aware of](https://adventuresinstoving.blogspot.com/2014/11/msr-windboiler-issues-known-and.html)
-  - NOTE: see also [stoves](stoves.md)
-  - [ ] fuel
-    - WARN: for cold conditions read [this](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
-  - if *not* integrated:
-    - [ ] pot, one of: [alluminium](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
-    - [ ] _(opt)_ [wind screen](https://www.rei.com/product/406084/msr-windscreen-and-heat-reflector)
-    - [ ] _(opt)_ [heat exchanger](https://www.msrgear.com/cookware/heat-exchanger)
 - [ ] [bear canister](https://www.rei.com/product/624081/garcia-bear-resistant-container) (or expensive [carbon one](https://www.wild-ideas.net/))
 - paperwork
   - [ ] waterproof container for papers and cellphones

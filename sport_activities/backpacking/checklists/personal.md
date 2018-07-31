@@ -27,22 +27,21 @@
   - [ ] [nalgene bottle](https://www.rei.com/product/141628/nalgene-wide-mouth-water-bottle-32-fl-oz) or [klean kanteen bottle](https://www.rei.com/product/855001/klean-kanteen-wide-mouth-water-bottle-40-fl-oz) or both
     - WARN: need 2l or more total per person
     - NOTE: metal one can be used for boiling in emergency situation
-- food
+- dinnerware
   - [ ] [mug](https://www.rei.com/product/116117/gsi-outdoors-infinity-mug)
   - [ ] _(opt)_ [bowl](https://www.rei.com/product/100082/gsi-outdoors-campware-serving-bowl)
     - NOTE: not really needed if you it directly from freeze dried food packet
   - [ ] spoon (take any from home)
-- [ ] personal medications
 - paperwork
   - [ ] id
   - [ ] credit card
   - [ ] money in cash
 - personal care
+  - [ ] personal medications
   - [ ] toothbrush
   - [ ] [head net](https://www.rei.com/product/780999/sea-to-summit-head-net)
     - WARN: need hat with brims to make it work
-  - [ ] [towel](https://www.rei.com/product/127505/rei-co-op-multi-towel)
-    - NOTE: choose size L for full body
+  - [ ] [towel](https://www.rei.com/product/127505/rei-co-op-multi-towel) (size L for full body)
 - footwear
   - [ ] [boots](https://www.rei.com/product/895632/la-sportiva-trango-trk-gtx-hiking-boots-mens) (size 10.5)
     - WARN: some people reported water resistance problems, may want to try some other model next time
@@ -64,26 +63,26 @@
   - top
     - [ ] synthetic T-shirts
         - [ ] include long sleeve for sun protection
-    - [ ] fleece
   - bottom
     - [ ] pants
     - [ ] shorts
     - [ ] synthetic underpants
     - [ ] swimming trunks
   - warm
+    - [ ] fleece
     - [ ] gloves
     - [ ] hat
     - [ ] _(opt)_ balaclava
     - [ ] _(opt)_ fleece pants
   - underwear
-    - [ ] [pants](https://www.rei.com/product/112045/smartwool-merino-150-long-underwear-bottoms-mens) (size M)
     - [ ] [top](https://www.rei.com/product/112042/smartwool-merino-150-pattern-crew-base-layer-long-sleeve-top-mens) (size M)
+    - [ ] [pants](https://www.rei.com/product/112045/smartwool-merino-150-long-underwear-bottoms-mens) (size M)
   - [ ] _(opt)_ [buff](https://www.rei.com/product/736217/buff-high-uv-coolmax-multifunctional-headwear) or bandana
     - NOTE: different warmth options available
 - rain wear
   - [ ] jacket
   - [ ] [pants](https://www.rei.com/product/865002/arcteryx-beta-sl-rain-pants-mens-short) (size M)
-- [ ] [trekking poles](trekking_poles.md)
+- [ ] [trekking poles](../trekking_poles.md)
 - emergency
   - [ ] [whistle](https://www.rei.com/product/100521/whistles-for-life-tri-power-whistle)
   - [ ] [reflective blanket](https://www.rei.com/product/813512/sol-emergency-blanket)

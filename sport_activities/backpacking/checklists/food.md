@@ -18,7 +18,7 @@
 - [ ] freeze dried
   - WARN: what marked 2 servings is usually actually more like 1.5 serving
   - mountain house
-    - NOTE: safe choice, almost all reviews are positive (still check [rejected](rejected.md))
+    - NOTE: safe choice, almost all reviews are positive (still check [rejected](../rejected.md))
     - [scrambled eggs with ham and peppers](https://www.rei.com/product/693933/mountain-house-scrambled-eggs-with-ham-and-peppers-2-servings)
     - [chicken noodle casserole](https://www.rei.com/product/115297/mountain-house-homestyle-chicken-noodle-casserole-3-servings)
     - [italian style pepper steak](https://www.amazon.com/gp/product/B00RJM2GX6/)
