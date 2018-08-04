@@ -1,4 +1,4 @@
-# Equipment
+# Equipment Checklist
 
 - [ ] board
 - [ ] cover for board
@@ -33,7 +33,7 @@
 ## notes
 
 - buy board first
-	- twin is good for starter
+	- twin is good for beginning
 	- banana is a matter of taste
 	- size must be between chin and nose (for more see [article](http://snowfaq.nm.ru/#q1p13))
 - cover must be a little bit greater than board
@@ -41,7 +41,7 @@
 - bindings must match board
 	- ask to set bindings in store
 	- be sure are you regular or goofy (or maybe prefer duck stance)
-	- angles 15/0 or 15/5 are ok for starter
+	- angles 15/0 or 15/5 are ok for beginning
 - boots must match bindings and must be good
 	- it's better if they have the same manufacturer (for best fit)
 - helmet + goggles must be bought together to match one to other
