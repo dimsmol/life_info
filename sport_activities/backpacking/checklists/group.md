@@ -1,11 +1,13 @@
+# Group Gear Checklist
+
 - navigation
   - [ ] map
     - [ ] protective case
   - [ ] [compass](https://www.rei.com/product/890930/suunto-m-3-d-leader-compass) (try to find something better?)
-  - _(opt)_ [ ] GPS
+  - [ ] _(opt)_ GPS
 - light / electricity
   - [ ] [lantern](https://www.rei.com/product/109954/petzl-noctilight-headlamp-case)
-  - _(opt)_ [ ] [candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit)
+  - [ ] _(opt)_ [candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit)
     - [ ] [candles](https://www.rei.com/product/410128/uco-candle-lantern-candles)
   - [ ] extra batteries
   - [ ] [recharger](https://www.rei.com/product/123286/goal-zero-venture-70-recharger)
@@ -46,7 +48,7 @@
   - [ ] better stakes - [steel](https://www.rei.com/product/693154/rei-co-op-steel-stake) or [ground hog](https://www.rei.com/product/682543/msr-ground-hog-stake)
     - WARN: ground hog can be hard to pull out
     - NOTE: there is also mini ground hog, cyclone, [etc.](https://www.rei.com/c/tent-stakes)
-  - _(opt)_ [ ] [hammer](https://www.rei.com/product/102781/msr-tent-stake-hammer) (or [this one](https://www.rei.com/product/729798/coghlans-tent-peg-mallet-puller))
+  - [ ] _(opt)_ [hammer](https://www.rei.com/product/102781/msr-tent-stake-hammer) (or [this one](https://www.rei.com/product/729798/coghlans-tent-peg-mallet-puller))
 - [ ] [bear canister](https://www.rei.com/product/624081/garcia-bear-resistant-container) (or expensive [carbon one](https://www.wild-ideas.net/))
 - paperwork
   - [ ] waterproof container for papers and cellphones
@@ -55,7 +57,7 @@
   - [ ] _(opt)_ guidebook
 - sanitation / personal care
   - [ ] [trowel](https://www.rei.com/product/131611/thetentlab-the-deuce-2-backcountry-trowel)
-  - [ ] toilet paper (remove middle carton and flatten)
+  - [ ] toilet paper (remove middle carton (if needed) and flatten)
   - [ ] [wet wipes](https://www.rei.com/product/879973/sea-to-summit-wilderness-wipes)
     - NOTE: regular ones with cap can even be better
   - [ ] [facial tissue](https://www.burpy.com/tom-thumb/signature-home-softly-facial-tissue-pocket-pack-2-ply/product-detail/1939530) (pocket pack)
@@ -74,14 +76,14 @@
   - [ ] small (for trash, used toilet paper, just in case, etc.)
   - [ ] large (for dirty stuff, etc.)
 - trip itinerary
-  - [ ] left one with friend
-  - [ ] put one under car seat
+  - [ ] left one copy with friend
+  - [ ] put another copy under car seat
 - emergency
   - [ ] [signal mirror](https://www.amazon.com/gp/product/B01M215N97/)
     - NOTE: try smaller one?
     - [ ] [pouch](https://www.amazon.com/gp/product/B0017D0ILA/)
-- _(opt)_ [ ] binoculars
-- _(opt)_ [ ] [radios](https://www.rei.com/product/122916/midland-tt61vp3-36-channel-gmrs-2-way-radios-with-charger-pair)
+- [ ] _(opt)_ binoculars
+- [ ] _(opt)_ [radios](https://www.rei.com/product/122916/midland-tt61vp3-36-channel-gmrs-2-way-radios-with-charger-pair)
   - NOTE: may want to look at alternatives
-- _(opt)_ [ ] [warmers](https://www.rei.com/product/760936/grabber-hand-warmers-10-pairs)
-  - NOTE: don't look to be reliable, worth to look for other options
+- [ ] _(opt)_ [warmers](https://www.rei.com/product/760936/grabber-hand-warmers-10-pairs)
+  - NOTE: don't look to be reliable, may want to look for other options

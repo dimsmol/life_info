@@ -1,3 +1,5 @@
+# Stoves
+
 - [gas stoves in cold weather](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
 - [best backpacking stoves of 2018](https://www.switchbacktravel.com/best-backpacking-stoves)
 - [MSR Windburner Duo](https://www.msrgear.com/stoves/stove-systems/windburner-duo-system)

@@ -1,6 +1,7 @@
+# Food Checklist
+
 - [ ] [electrolytes](https://www.rei.com/product/107488/saltstick-fastchews-chewable-electrolyte-tablets) (lemon-lime is ok)
-- [ ] _(opt)_ fish
-  - [salmon](https://www.rei.com/product/714659/seabear-ready-to-eat-wild-salmon-35-oz)
+- [ ] _(opt)_ [fish](https://www.rei.com/product/714659/seabear-ready-to-eat-wild-salmon-35-oz)
   - NOTE: there are options like this in SafeWay (salmon, tuna) - not really tasty, but ok
 - energy bars, gels, mix, etc.
   - [ ] [protein mix](https://www.rei.com/product/752836/hammer-nutrition-recoverite-drink-mix-single-serving) or [this one](https://www.amazon.com/gp/product/B06XWYX4GT/)
@@ -15,7 +16,7 @@
   - [ ] dehydrated for longer time
 - [ ] [cocoa](https://www.amazon.com/Trader-Joes-Organic-Instant-Packets/dp/B00BT1CGYC) or [this one](https://www.instacart.com/ralphs/products/3328443-starbucks-marshmallow-hot-cocoa-mix-8-oz)
   - [ ] _(opt)_ freeze dried milk
-- [ ] _?_ packet soups
+- [ ] _(opt)_ packet soups
 - [ ] freeze dried
   - WARN: what marked 2 servings is usually actually more like 1.5 serving
   - mountain house

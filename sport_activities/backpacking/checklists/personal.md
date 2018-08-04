@@ -1,11 +1,12 @@
+# Personal Gear Checklist
+
 - [ ] backpack: 65l-80l, look at Osprey
   - [ ] pack cover
   - [ ] _(opt)_ day pack
 - [ ] [sleeping bag](https://www.rei.com/product/127386/rei-co-op-trail-pod-30-sleeping-bag)
   - NOTE: this one is pretty heavy and bulky, but cheap
   - NOTE: synthetic is heavier and more bulky than down, but less affected by water and easier to care
-  - [ ] [compression sack](https://www.rei.com/product/118854/rei-co-op-lightweight-compression-stuff-sack)
-    - WARN: choose right size
+  - [ ] [compression sack](https://www.rei.com/product/118854/rei-co-op-lightweight-compression-stuff-sack) (choose right size)
     - NOTE: may prefer waterproof
   - [ ] [liner](https://www.rei.com/product/850235/cocoon-microfiber-mummy-liner)
   - [ ] [sleeping pad](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad)
@@ -13,23 +14,20 @@
     - NOTE: may prefer inflatable, but I personally like this one
 - sun protection
   - [ ] [hat](https://www.rei.com/product/767086/sunday-afternoons-adventure-hat) with brims and neck protection
-  - [ ] [sunglasses](Pepper's Nightfall Polarized Sunglasses)
-    - NOTE: look for uv-protected, polarized
+  - [ ] [sunglasses](Pepper's Nightfall Polarized Sunglasses) (look for uv-protected, polarized)
     - [ ] [retainer](https://www.rei.com/product/892951/chums-slip-fit-rope-eyeglass-retainer)
-    - [ ] [case](https://www.amazon.com/gp/product/B00IJWS4WC/)
-      - WARN: ensure proper size
+    - [ ] [case](https://www.amazon.com/gp/product/B00IJWS4WC/) (ensure proper size)
   - [ ] [lip balm](https://www.rei.com/product/785330/banana-boat-sport-sunscreen-lip-balm-spf-50)
 - light
-  - [ ] [headlamp](https://www.rei.com/product/109856/petzl-tikka-headlamp)
-    - NOTE: may want something more waterproof
+  - [ ] [headlamp](https://www.rei.com/product/109856/petzl-tikka-headlamp) (may want something more waterproof)
   - [ ] spare flashlight (can reuse one from bicycle)
 - water
-  - [ ] [nalgene bottle](https://www.rei.com/product/141628/nalgene-wide-mouth-water-bottle-32-fl-oz) or [klean kanteen bottle](https://www.rei.com/product/855001/klean-kanteen-wide-mouth-water-bottle-40-fl-oz) or both
+  - [ ] [nalgene bottle](https://www.rei.com/product/141628/nalgene-wide-mouth-water-bottle-32-fl-oz) or [klean kanteen bottle](https://www.rei.com/product/855001/klean-kanteen-wide-mouth-water-bottle-40-fl-oz) or both (or [square version](https://www.rei.com/product/402058/nalgene-space-saver-bottle-64-fl-oz))
     - WARN: need 2l or more total per person
     - NOTE: metal one can be used for boiling in emergency situation
 - dinnerware
   - [ ] [mug](https://www.rei.com/product/116117/gsi-outdoors-infinity-mug)
-  - [ ] _(opt)_ [bowl](https://www.rei.com/product/100082/gsi-outdoors-campware-serving-bowl)
+  - [ ] _(opt)_ [bowl](https://www.rei.com/product/100082/gsi-outdoors-campware-serving-bowl) (or something like [this]([16oz](https://www.rei.com/product/112536/nalgene-straight-sided-jar-16-fl-oz))
     - NOTE: not really needed if you it directly from freeze dried food packet
   - [ ] spoon (take any from home)
 - paperwork
@@ -39,8 +37,7 @@
 - personal care
   - [ ] personal medications
   - [ ] toothbrush
-  - [ ] [head net](https://www.rei.com/product/780999/sea-to-summit-head-net)
-    - WARN: need hat with brims to make it work
+  - [ ] [head net](https://www.rei.com/product/780999/sea-to-summit-head-net) (needs hat with brims to work)
   - [ ] [towel](https://www.rei.com/product/127505/rei-co-op-multi-towel) (size L for full body)
 - footwear
   - [ ] [boots](https://www.rei.com/product/895632/la-sportiva-trango-trk-gtx-hiking-boots-mens) (size 10.5)
@@ -48,7 +45,8 @@
     - NOTE: La Sportiva is well represented in Saratoga REI store
     - NOTE: depending on conditions may prefer:
       - [low profile](https://www.rei.com/product/129503/la-sportiva-spire-gtx-hiking-shoes-mens)
-      - [non-waterproof](https://www.rei.com/product/110660/la-sportiva-wildcat-trail-running-shoes-mens) (didn't last long, try [raptor](https://www.rei.com/product/848243/la-sportiva-ultra-raptor-trail-running-shoes-mens) next time?)
+      - [non-waterproof](https://www.rei.com/product/110660/la-sportiva-wildcat-trail-running-shoes-mens) (dry fast)
+        - NOTE: these ones didn't last long, try [raptor](https://www.rei.com/product/848243/la-sportiva-ultra-raptor-trail-running-shoes-mens) next time?
   - [ ] [gaiters](https://www.rei.com/product/852794/outdoor-research-rocky-mountain-low-gaiters)
     - NOTE: for high boots they are useful only in rainy / muddy conditions
     - NOTE: for low boots may need some other model
@@ -59,9 +57,8 @@
   - [ ] sandals TODO
     - NOTE: for using both in camp and crossing rivers
 - clothes
-  - top
-    - [ ] synthetic T-shirts
-        - [ ] include long sleeve for sun protection
+  - [ ] synthetic T-shirts
+      - [ ] include long sleeve for sun protection
   - bottom
     - [ ] pants
     - [ ] shorts
@@ -70,14 +67,13 @@
   - warm
     - [ ] fleece
     - [ ] gloves
-    - [ ] hat: windstopper is great
+    - [ ] hat (windstopper is great)
     - [ ] _(opt)_ balaclava
     - [ ] _(opt)_ fleece pants
   - underwear
     - [ ] [top](https://www.rei.com/product/112042/smartwool-merino-150-pattern-crew-base-layer-long-sleeve-top-mens) (size M)
     - [ ] [pants](https://www.rei.com/product/112045/smartwool-merino-150-long-underwear-bottoms-mens) (size M)
-  - [ ] _(opt)_ [buff](https://www.rei.com/product/736217/buff-high-uv-coolmax-multifunctional-headwear) or bandana
-    - NOTE: different warmth options available
+  - [ ] _(opt)_ [buff](https://www.rei.com/product/736217/buff-high-uv-coolmax-multifunctional-headwear) or bandana (choose proper warmth)
 - rain wear
   - [ ] jacket
   - [ ] [pants](https://www.rei.com/product/865002/arcteryx-beta-sl-rain-pants-mens-short) (size M)
@@ -86,7 +82,6 @@
   - [ ] [whistle](https://www.rei.com/product/100521/whistles-for-life-tri-power-whistle)
   - [ ] [reflective blanket](https://www.rei.com/product/813512/sol-emergency-blanket)
 - misc
-  - [ ] outdoor watch, with altimeter if available
+  - [ ] outdoor watch, preferably with altimeter
   - [ ] _(opt)_ [seat pad](https://www.rei.com/product/829881/therm-a-rest-z-seat-pad)
-- [ ] _(see note below)_ bear spay
-  - WARN: forbidden in most CA area, but may need it where there are grizzly bears
+- [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need it where there are grizzly bears

@@ -1,4 +1,7 @@
+# Trekking Poles
+
 - *don't* buy REI - not sturdy enough, no repairment parts
+- prefer cork or maybe foam
 - some options:
   - leki
     - [cristallo](https://www.rei.com/product/113205/leki-cristallo-trekking-poles-pair)
