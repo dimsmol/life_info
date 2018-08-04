@@ -15,6 +15,7 @@
   - [ ] dehydrated for longer time
 - [ ] [cocoa](https://www.amazon.com/Trader-Joes-Organic-Instant-Packets/dp/B00BT1CGYC) or [this one](https://www.instacart.com/ralphs/products/3328443-starbucks-marshmallow-hot-cocoa-mix-8-oz)
   - [ ] _(opt)_ freeze dried milk
+- [ ] _?_ packet soups
 - [ ] freeze dried
   - WARN: what marked 2 servings is usually actually more like 1.5 serving
   - mountain house
