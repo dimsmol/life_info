@@ -50,6 +50,7 @@
     - NOTE: there is also mini ground hog, cyclone, [etc.](https://www.rei.com/c/tent-stakes)
   - [ ] _(opt)_ [hammer](https://www.rei.com/product/102781/msr-tent-stake-hammer) (or [this one](https://www.rei.com/product/729798/coghlans-tent-peg-mallet-puller))
 - [ ] [bear canister](https://www.rei.com/product/624081/garcia-bear-resistant-container) (or expensive [carbon one](https://www.wild-ideas.net/))
+  - WARN: check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
 - paperwork
   - [ ] waterproof container for papers and cellphones
   - [ ] permits
