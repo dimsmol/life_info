@@ -4,7 +4,7 @@
   - [ ] map
     - [ ] protective case
   - [ ] [compass](https://www.rei.com/product/890930/suunto-m-3-d-leader-compass) (try to find something better?)
-  - [ ] _(opt)_ GPS
+  - [ ] _(opt)_ [GPS](https://buy.garmin.com/en-US/US/p/140020) (see also [older model](https://buy.garmin.com/en-US/US/p/63801), consider also [eTrex](https://buy.garmin.com/en-US/US/p/518046))
 - light / electricity
   - [ ] [lantern](https://www.rei.com/product/109954/petzl-noctilight-headlamp-case)
   - [ ] _(opt)_ [candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit)

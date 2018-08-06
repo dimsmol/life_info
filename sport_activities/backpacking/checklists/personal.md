@@ -82,6 +82,6 @@
   - [ ] [whistle](https://www.rei.com/product/100521/whistles-for-life-tri-power-whistle)
   - [ ] [reflective blanket](https://www.rei.com/product/813512/sol-emergency-blanket)
 - misc
-  - [ ] outdoor watch, preferably with altimeter
+  - [ ] outdoor [watch](https://buy.garmin.com/en-US/US/p/582444/pn/010-01847-03), preferably with altimeter
   - [ ] _(opt)_ [seat pad](https://www.rei.com/product/829881/therm-a-rest-z-seat-pad)
 - [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need it where there are grizzly bears
