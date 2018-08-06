@@ -5,15 +5,17 @@
   - NOTE: there are options like this in SafeWay (salmon, tuna) - not really tasty, but ok
 - energy bars, gels, mix, etc.
   - [ ] [protein mix](https://www.rei.com/product/752836/hammer-nutrition-recoverite-drink-mix-single-serving) or [this one](https://www.amazon.com/gp/product/B06XWYX4GT/)
-  - [ ] [protein bars](https://www.rei.com/product/716080/clif-builders-bar), [one more](https://www.rei.com/product/117611/clif-whey-protein-bar), they are all pretty good
-  - [ ] [energy bars](https://www.rei.com/product/604787/clif-energy-bar), [one more](https://www.rei.com/product/108105/clif-nut-butter-filled-bars)
+  - NOTE: Clif Bars are well represented in SafeWay, see also [clifbar site](https://shop.clifbar.com/)
+    - [ ] [protein bars](https://www.rei.com/product/117611/clif-whey-protein-bar), [one more](https://www.rei.com/product/716080/clif-builders-bar), they are all pretty good
+    - [ ] [energy bars](https://www.rei.com/product/108105/clif-nut-butter-filled-bars), [one more](https://www.rei.com/product/604787/clif-energy-bar)
   - [ ] [energy gels](https://www.rei.com/product/610028/gu-energy-gel) (mostly just carbs)
+  - [ ] try [superfood bites](https://www.urbanfoods.com/product/tart-cherry-apple/) (can be found in SafeWay)
 - [ ] nuts (pecans, almonds)
 - [ ] bread (dried pita or pumpernickel)
 - [ ] [biltong](https://eatbiltong.com/)
 - fruits
   - [ ] fresh for first days
-  - [ ] dehydrated for longer time
+  - [ ] dehydrated for longer time (try [this](https://peeledsnacks.com/snack/apple-2-the-core/)?)
 - [ ] [cocoa](https://www.amazon.com/Trader-Joes-Organic-Instant-Packets/dp/B00BT1CGYC) or [this one](https://www.instacart.com/ralphs/products/3328443-starbucks-marshmallow-hot-cocoa-mix-8-oz)
   - [ ] _(opt)_ freeze dried milk
 - [ ] _(opt)_ packet soups

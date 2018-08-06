@@ -75,7 +75,7 @@
     - WARN: for especially bad conditions consider [Picaridin](https://www.rei.com/product/887628/sawyer-picaridin-insect-repellent-lotion-4-fl-oz) or [DEET](https://www.rei.com/product/799528/sawyer-jungle-juice-100-pump-spray-insect-repellent-98-percent-deet-2-fl-oz) (may damage some plastics and fabrics) or [Permethrin](https://www.rei.com/product/768970/sawyer-permethrin-pump-spray-24-oz) (for clothes, deadly for cats!!!)
 - plastic bags
   - [ ] small (for trash, used toilet paper, just in case, etc.)
-  - [ ] large (for dirty stuff, etc.)
+  - [ ] large - unscented!!! (for dirty stuff, etc.)
 - trip itinerary
   - [ ] left one copy with friend
   - [ ] put another copy under car seat
