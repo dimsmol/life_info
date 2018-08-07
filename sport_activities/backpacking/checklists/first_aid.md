@@ -1,5 +1,47 @@
 # First Aid Checklist
 
-- [ ] magnifying glass
-- [ ] small mirror
-- TODO
+- misc
+  - [ ] manual
+  - [ ] waterproof container
+- wounds
+  - [ ] antiseptic wipes (benzalkonium chloride (BZK)-based preferred, alcohol-based ok)
+  - [ ] adhesive bandage (flexible fabric)
+  - [ ] non-stick pads
+  - [ ] medical adhesive tape (cloth tape)
+  - [ ] rolled gauze / hurt-free wrap
+  - [ ] moleskin
+  - [ ] compound tincture of benzoin
+  - [ ] liquid bandage
+  - [ ] cotton-tipped swabs
+  - [ ] safety pins
+  - [ ] butterfly bandage / wound closure strips / stitches tape
+  - [ ] _opt_ elastic wrap
+  - [ ] _opt?_ hemostatic gauze
+- medications
+  - [ ] pain-relief (ibuprofen)
+  - [ ] antihistamine
+  - skin
+    - [ ] antibacterial ointment (bacitracin)
+    - [ ] insect-sting relief (AfterBite)
+    - poison ivy/oak
+      - [ ] treatment
+      - [ ] _opt_ cleanser (can use alcohol-based hand sanitizer)
+    - [ ] aloe vera gel (sun exposure relief)
+    - [ ] bepanthen
+  - cold
+    - [ ] throat lozenges
+    - [ ] nasal drops
+    - [ ] tablets
+  - ear / eye
+    - [ ] lubricating eye drops
+    - [ ] ear drops
+  - tummy
+    - [ ] antacid
+    - [ ] loperamide (diarrhea)
+    - [ ] activated charcoal
+    - [ ] laxative
+- tools
+  - [ ] magnifying glass
+  - [ ] small mirror
+  - [ ] paramedic shears
+  - [ ] medical nitrile gloves (avoid latex)
