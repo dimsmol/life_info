@@ -21,6 +21,7 @@
   - [ ] pain-relief (ibuprofen)
   - [ ] antihistamine
   - skin
+    - [ ] povidone-iodine for desinfecting wounds
     - [ ] antibacterial ointment (bacitracin)
     - [ ] insect-sting relief (AfterBite)
     - poison ivy/oak
