@@ -1,5 +1,11 @@
 # Where to buy
 
+## San Francisco
+
+- [sportsbasement](https://shop.sportsbasement.com/pages/store-sf-bryant-street)
+  - there are [more](https://shop.sportsbasement.com/pages/stores)
+- [REI](https://www.rei.com/stores/san-francisco.html)
+
 ## Moscow
 
 - [Traektoria](http://www.traektoria.ru/)
