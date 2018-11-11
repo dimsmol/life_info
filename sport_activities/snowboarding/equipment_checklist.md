@@ -4,13 +4,16 @@
 - [ ] cover for board
 - [ ] bindings
 - [ ] boots
+- [ ] _opt_ snowboard traction
 - clothes:
 	- [ ] jacket
 	- [ ] fleece
 	- [ ] pants
 	- [ ] balaсlava
 	- [ ] tube scarf
-	- [ ] underwear
+	- base layer
+		- [ ] bottom
+		- [ ] pants
 	- [ ] socks
 	- [ ] gloves (preferably with wrists protection)
 - protection:
