@@ -26,7 +26,7 @@
 
 ## additional (for Mountains)
 
-- [ ] radios (see [article](http://snowfaq.nm.ru/radio.html))
+- [ ] radios (like [this one](https://midlandusa.com/product/gxt1000vp4/))
 - [ ] backpack (preferably with back protection)
 - [ ] thermos
 - [ ] toolset (screwdriver, etc.)
