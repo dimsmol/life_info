@@ -28,8 +28,9 @@
 - dinnerware
   - [ ] [mug](https://www.rei.com/product/116117/gsi-outdoors-infinity-mug)
   - [ ] _(opt)_ [bowl](https://www.rei.com/product/100082/gsi-outdoors-campware-serving-bowl) (or something like [this]([16oz](https://www.rei.com/product/112536/nalgene-straight-sided-jar-16-fl-oz))
-    - NOTE: not really needed if you it directly from freeze dried food packet
+    - NOTE: not really needed if you eat directly from freeze dried food packet
   - [ ] spoon (take any from home)
+  - [ ] _(opt)_ [plate](https://www.rei.com/product/895463/gsi-outdoors-infinity-plate)
 - paperwork
   - [ ] id
   - [ ] credit card

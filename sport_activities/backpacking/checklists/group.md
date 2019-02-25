@@ -33,6 +33,8 @@
   - [ ] cord 50'
   - [ ] sewing kit
   - [ ] duct tape
+- dinnerware
+  - [ ] [salt and pepper shaker](https://www.rei.com/product/815539/gsi-outdoors-ultralight-salt-pepper-shaker)
 - water
   - [ ] [filter](https://www.rei.com/product/103071/sawyer-squeeze-water-filter-plus)
   - [ ] backup chemical treatment
