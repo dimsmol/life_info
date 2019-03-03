@@ -4,7 +4,9 @@
 - cut of fat and tendons
 - cut in long pieces of desired width
 - put into freezer for ~40 min to make slicing simpler
-- slice into long strips
+- slice into thin long strips
+  - cutting against grain is recommended
+    - but this is probably not very important
 - marinate for 3 h to overnight in fridge:
   - use coriander, rosemary, cumin, pepper, salt
   - options:
