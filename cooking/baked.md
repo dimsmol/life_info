@@ -30,6 +30,7 @@ alternative
 - [src](https://www.gimmesomeoven.com/cook-steak-oven/)
 - let beef rest on the counter for 30-45 to make it room temp
 - preheat oven broiler
+  - use high heat
 - dry beef with paper towels
 - cover with oil and spices
 - pre-heat iron cast skillet for 6-8 min
@@ -47,7 +48,7 @@ alternative
     - medium-well: 150F
     - well done:   160F
 - move steak to plate
-- cover with foil
+- cover with foil or another plate
 - let rest for 3 min
 
 ## Chicken
