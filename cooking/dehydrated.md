@@ -1,3 +1,15 @@
+## fruits
+
+- cover baking tray with parchment paper
+- slice fruits and put on the tray
+- bake for 6 h on low heat
+  - 170F looks to be ok
+    - though some use as low as 130F if oven can do that
+    - for whole berries or some specific fruits (strawberry) you may want higher temperature
+- if use multiple trays, rotate them every 2 h
+- if not ready after 6 h, continue
+  - some juicy fruits may take as long as 12 h
+
 ## jerky
 
 - need high quality beef, filet mignon worked well
@@ -26,14 +38,3 @@
     - though some use as low as 145F if oven can do it
 - if still not ready, bake 30 min more
   - repeat untill ready
-
-## fruits
-
-- cover baking tray with parchment paper
-- slice fruits and put on the tray
-- bake for 6 h on low heat
-  - 170F looks to be ok
-    - though some use as low as 130F if oven can do that
-- if use multiple trays, rotate them every 2 h
-- if not ready after 6 h, continue
-  - some juicy fruits may take as long as 12 h

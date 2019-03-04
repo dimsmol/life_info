@@ -10,6 +10,28 @@
 - add buckwheat: 1 part of buckwheat for 2 parts of water (add more water if needed)
 - add salt
 
+## Cutlets
+
+- peel and shred 2 medium potatoes and 1 large carrot
+- put in a bowl:
+  - vegetables
+  - 1lb of lean ground beef
+  - 1lb of ground pork
+  - spices
+- mix well
+- form cutlets from the mix
+- options:
+  - steam for ~50 min
+    - _(opt)_ wrap into rice paper before serving
+  - fry on a pan
+    - cover with flour
+      - should not be moist on outside
+    - fry every side for ~5 min on high heat
+    - simmer for 5-10 min on low heat
+      - ready when:
+        - no pink inside
+        - juice is transparent
+
 ## Pork Stew (component)
 
 - cut pork, remove any parts you don't like
