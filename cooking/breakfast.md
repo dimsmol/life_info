@@ -1,17 +1,21 @@
 ## Millet
 
-- [src](http://woman365.ru/recipes/pshennaya-kasha/)
-- rinse well 3/4 of glass (150-180 ml) in hot water, drain
-- boil 500 ml of milk, add salt
-- put millet into boiling milk, cook slowly for ~ 30 min
-- add butter and sugar, keep under cover
+- rinse 3/4 of glass (~200 ml) of millet well in hot water, drain
+- add 400-500ml of milk
+  - option: ~300-400ml water
+- make it boil, add salt
+- cook slowly for ~25 min
+- _(opt)_ add butter and sugar
+- let steam under cover for several minutes
+  - in case of water - let it to be absorbed
 
 ## Oats
 
 - boil 500 ml of milk, add salt
 - put 3/4 of glass (150-180 ml) of oats into boiling milk, cook slowly until ready
   - steel cut takes a lot of time, rolled is quickest but not as tasty
-- add butter and sugar, keep under cover
+- _(opt)_ add butter and sugar
+- let steam under cover for several minutes
 
 ## Omelette
 
