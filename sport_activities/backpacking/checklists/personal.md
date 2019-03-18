@@ -14,7 +14,7 @@
     - NOTE: may prefer inflatable, but I personally like this one
 - sun protection
   - [ ] [hat](https://www.rei.com/product/767086/sunday-afternoons-adventure-hat) with brims and neck protection
-  - [ ] [sunglasses](Pepper's Nightfall Polarized Sunglasses) (look for uv-protected, polarized)
+  - [ ] [sunglasses](https://www.rei.com/product/118708/peppers-nightfall-polarized-sunglasses) (look for uv-protected, polarized)
     - [ ] [retainer](https://www.rei.com/product/892951/chums-slip-fit-rope-eyeglass-retainer)
     - [ ] [case](https://www.amazon.com/gp/product/B00IJWS4WC/) (ensure proper size)
   - [ ] [lip balm](https://www.rei.com/product/785330/banana-boat-sport-sunscreen-lip-balm-spf-50)

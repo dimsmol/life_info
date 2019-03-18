@@ -22,6 +22,9 @@
   - WARN: for cold conditions use one with [inverted canister](https://www.msrgear.com/stoves/canister-stoves/windpro-ii) (or [this one](https://www.msrgear.com/stoves/canister-stoves/whisperlite-universal))
   - [ ] fuel
     - WARN: for cold conditions read [this](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
+  - [ ] [canister stand](https://www.rei.com/product/814692/msr-universal-fuel-canister-stand) _(opt)_ (depending on stove)
+    - or [this one](https://www.rei.com/product/884004/jetboil-fuel-can-stabilizer)
+  - [ ] _(opt)_ [canister recycling tool](https://www.rei.com/product/813638/jetboil-crunchit-recycling-tool)
   - [ ] long plastic spoon for pot
   - if *not* integrated:
     - [ ] pot, one of: [aluminum](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
