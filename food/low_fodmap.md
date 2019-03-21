@@ -155,8 +155,8 @@ avoid:
 
 ## dried fruits
 
-- _(small)_ dried pineapple - Trader Joe's
 - _(small)_ dried banana - SafeWay, CVS
+- WARN: dried pineapple isn't safe
 
 ## diary
 
