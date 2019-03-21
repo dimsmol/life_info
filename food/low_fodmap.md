@@ -11,6 +11,10 @@ legend:
 - no mark - safe in bigger amounts, still should be limited
 - _(unlim)_ - _should_ be safe in any amount
 
+avoid:
+
+- [Fody](https://fodyfoods.com) bars, etc. - quality is mediocre
+
 ## supplements
 
 - [Saltstick Electrolyte Salt Capsules](https://www.rei.com/product/823163/saltstick-electrolyte-salt-capsules-100-capsules) - this specific kind looks to be safe
@@ -77,7 +81,7 @@ legend:
   - [Pumpkin seed butter](https://88acres.com/products/pumpkin-seed-butter-with-no-added-sugar-pouches) or [this one](https://88acres.com/products/pumpkin-seed-butter-with-no-added-sugar)
   - may try some others, but be carefull with sunflower-based!
 - [Stellar Labs](https://www.stellarlabsnutrition.com)
-  - expensive, no convenient variety option, and reviews aren't the best
+  - not tried: expensive, no convenient variety option, and reviews aren't the best
 
 ## bread & pasta
 
@@ -86,10 +90,14 @@ legend:
 - gluten free gnocchi - SafeWay
 - _(small)_ Schar gluten free bread - SafeWay
 
-## flour & sweeteners
+## flour, sweeteners, cocoa, chocolate, vinegar
 
 - _(unlim)_ stevia - Trader Joe's
 - brown rice flour - Whole Foods, SafeWay
+- _(small)_ cocoa powder - Whole Foods, Milk Pail
+- _(small)_ dark chocolate - Trader Joe's
+    - choose one with a minimal amount of cocoa
+- _(small)_ vinegar: apple cider, red vine, rice vine, malt - Whole Foods
 
 ## eggs, fish, meat, oil, etc.
 
@@ -133,10 +141,10 @@ legend:
 - _(unlim)_ breadfruit - could not find
 - raspberry - Whole Foods, SafeWay
 - pineapple pieces - SafeWay, Whole Foods, Walgreens
-- iceberg - Milk Pail
+- iceberg lettuce - Milk Pail
 - tomato - Milk Pail
 - banana - Whole Foods, Milk Pail
-  - prefer unripe
+  - prefer unripe, it's safer
 - dill - Milk Pail
 - parsley - Milk Pail
 - baby spinach - Milk Pail
@@ -155,9 +163,3 @@ legend:
 - _(small)_ cheese: cheddar, havarty, swiss, colby, monterey jack, manchego, brie, camembert (Boar Head) - SafeWay
 - _(small)_ butter - Trader Joe's
 - lactose free milk _(can be problematic?)_ - SafeWay
-
-## misc
-
-- _(small)_ vinegar - Whole Foods
-- _(small)_ dark chocolate - Trader Joe's
-- _(small)_ cocoa powder - Whole Foods, Milk Pail
