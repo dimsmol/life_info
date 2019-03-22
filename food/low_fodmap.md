@@ -60,9 +60,10 @@ avoid:
 
 - [gomacro](https://www.gomacro.com) - Sprouts, Whole Foods
   - [Peanut Butter Chocolate Chip](https://www.gomacro.com/shop/macrobars/protein-pleasure/)
-- [Bobo's](https://eatbobos.com) oat bars - SafeWay, Whole Foods
+- _(small)_ [Bobo's](https://eatbobos.com) oat bars - SafeWay, Whole Foods
   - [original](https://eatbobos.com/collections/all/products/original-oat-bar)
   - [lemon poppyseed](https://eatbobos.com/collections/all/products/lemon-poppyseed-oat-bar)
+  - [peanut butter](https://eatbobos.com/collections/oat-bars/products/peanut-butter-oat-bar)
   - some of the others, but can be too sweet
 - [Carman's](https://www.carmanskitchen.com.au) bars, etc. - select "Low FODMAP" diet in products section
   - really good
