@@ -64,6 +64,7 @@ avoid:
   - [original](https://eatbobos.com/collections/all/products/original-oat-bar)
   - [lemon poppyseed](https://eatbobos.com/collections/all/products/lemon-poppyseed-oat-bar)
   - [peanut butter](https://eatbobos.com/collections/oat-bars/products/peanut-butter-oat-bar)
+  - [maple pecan](https://eatbobos.com/collections/oat-bars/products/maple-pecan-oat-bar)
   - some of the others, but can be too sweet
 - [Carman's](https://www.carmanskitchen.com.au) bars, etc. - select "Low FODMAP" diet in products section
   - really good
