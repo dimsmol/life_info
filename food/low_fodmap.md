@@ -60,12 +60,6 @@ avoid:
 
 - [gomacro](https://www.gomacro.com) - Sprouts, Whole Foods
   - [Peanut Butter Chocolate Chip](https://www.gomacro.com/shop/macrobars/protein-pleasure/)
-- _(small)_ [Bobo's](https://eatbobos.com) oat bars - SafeWay, Whole Foods
-  - [original](https://eatbobos.com/collections/all/products/original-oat-bar)
-  - [lemon poppyseed](https://eatbobos.com/collections/all/products/lemon-poppyseed-oat-bar)
-  - [peanut butter](https://eatbobos.com/collections/oat-bars/products/peanut-butter-oat-bar)
-  - [maple pecan](https://eatbobos.com/collections/oat-bars/products/maple-pecan-oat-bar)
-  - some of the others, but can be too sweet
 - [Carman's](https://www.carmanskitchen.com.au) bars, etc. - select "Low FODMAP" diet in products section
   - really good
   - [Dar choc macadamia coconut bars](https://www.carmanskitchen.com.au/our-products/dark-choc-macadamia-coconut-nut-bars/) not in "Low FODMAP", but look to be more or less safe
@@ -76,6 +70,13 @@ avoid:
 - [Rachel Pauls](https://www.rachelpaulsfood.com) also jerky, etc.
   - bars are pretty much ok
   - don't like jerky (it's sweet)
+- _(small)_ [Bobo's](https://eatbobos.com) oat bars - SafeWay, Whole Foods
+  - careful, lot's of sugar: 20g per bar (amounts in ingredients are per 1/2 bar)
+  - [original](https://eatbobos.com/collections/all/products/original-oat-bar)
+  - [lemon poppyseed](https://eatbobos.com/collections/all/products/lemon-poppyseed-oat-bar)
+  - [peanut butter](https://eatbobos.com/collections/oat-bars/products/peanut-butter-oat-bar)
+  - [maple pecan](https://eatbobos.com/collections/oat-bars/products/maple-pecan-oat-bar)
+  - some of the others, but can be too sweet
 - [88 acres](https://88acres.com) seed bars, seed butters
   - bars are kind of ok
   - [Dark chocolate sea salt seed bars](https://88acres.com/products/dark-chocolate-sea-salt-seed-bars) - a little bit too salty
@@ -133,14 +134,17 @@ avoid:
   - prefer very ripe, not ripe enough is only for cooking
 - _(unlim)_ dragonfruit - Whole Foods, SafeWay
   - Milk Pail has some other kind and it's too sweet
-- _(unlim)_ star fruit - SafeWay, Sprouts
+- _(unlim)_ star fruit - SafeWay, Sprouts, Whole Foods
 - _(unlim)_ papaya
 - _(unlim)_ strawberry - Whole Foods, SafeWay
 - _(unlim)_ cucumber - Milk Pail
 - _(unlim)_ radish - Milk Pail
 - _(unlim)_ carrot - Milk Pail
+- _(unlim)_ peeled baby carrot - Whole Foods
 - _(unlim)_ parsnip - Milk Pail
 - _(unlim)_ breadfruit - could not find
+- _(unlim)_? potato - Milk Pail
+  - safe in theory, but on practice can be problematic?
 - raspberry - Whole Foods, SafeWay
 - pineapple pieces - SafeWay, Whole Foods, Walgreens
 - iceberg lettuce - Milk Pail
