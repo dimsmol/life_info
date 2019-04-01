@@ -77,7 +77,7 @@ avoid:
   - [peanut butter](https://eatbobos.com/collections/oat-bars/products/peanut-butter-oat-bar)
   - [maple pecan](https://eatbobos.com/collections/oat-bars/products/maple-pecan-oat-bar)
   - some of the others, but can be too sweet
-- [88 acres](https://88acres.com) seed bars, seed butters
+- [88 acres](https://88acres.com) seed bars, seed butters - REI
   - bars are kind of ok
   - [Dark chocolate sea salt seed bars](https://88acres.com/products/dark-chocolate-sea-salt-seed-bars) - a little bit too salty
   - [Double chocolate mocha seed bars](https://88acres.com/products/double-chocolate-mocha-seed-bars)
