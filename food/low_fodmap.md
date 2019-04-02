@@ -90,8 +90,10 @@ avoid:
 
 - Schar [gluten free pizza crusts](https://www.amazon.com/gp/product/B002C1CWLA)
 - gluten free pasta - Whole Foods
+  - `Ancient Harvest`
 - gluten free gnocchi - SafeWay
-- _(small)_ Schar gluten free bread - SafeWay
+  - `Delallo`
+- _(small)_ `Schar` gluten free bread - SafeWay
 
 ## flour, sweeteners, cocoa, chocolate, vinegar
 
@@ -124,7 +126,9 @@ avoid:
 ## grains
 
 - brown rice - SafeWay
+  - `Lundberg`
 - brown rice (ready to eat) - SafeWay
+  - `Lundberg`
 - quinoa - SafeWay
 - millet - Whole Foods
 
