@@ -24,8 +24,9 @@ avoid:
 
 ## chips & popcorn
 
-- Boom chica pop (popcorn) - SafeWay, Whole Foods, Walgreens
-- Inka Chips (plantain chips) - Milk Pail, Whole Foods, Walgreens (some)
+- `Skinny Pop` popcorn (low sodium) - Whole Foods
+  - `Boom chica pop` is ok option - SafeWay, Whole Foods, Walgreens
+- `Inka Chips` plantain chips - Whole Foods
   - avoid sweet (not tasty), be careful with different kinds
 - Roasted plantain chips - Trader Joe's
 - White corn tortilla chips, unsalted - Trader Joe's
@@ -49,9 +50,9 @@ avoid:
 ## biltongs
 
 - [Lehigh Biltong](https://www.lehighbiltong.com)
-  - Original - very little seasoning, like it
-  - Pioneer
-  - not sure how safe is Secret Spice
+  - `Original` - very little seasoning, like it
+  - `Pioneer` is ok option
+  - not sure how safe is `Secret Spice`
 - [Kalahari Biltong](https://eatbiltong.com)
   - [original](https://eatbiltong.com/collections/frontpage/products/original) - safe, but a bit too spicy
   - avoid garlic!
@@ -60,6 +61,8 @@ avoid:
 
 - [gomacro](https://www.gomacro.com) - Sprouts, Whole Foods
   - [Peanut Butter Chocolate Chip](https://www.gomacro.com/shop/macrobars/protein-pleasure/)
+- [Julian Bakery](https://julianbakery.com)
+  - [Stay Thin Peanut Butter](https://julianbakery.com/product/stay-thin-protein-bar-egg-white/) - low sugar, but unusual taste due to monk fruit extract
 - [Carman's](https://www.carmanskitchen.com.au) bars, etc. - select "Low FODMAP" diet in products section
   - really good
   - [Dar choc macadamia coconut bars](https://www.carmanskitchen.com.au/our-products/dark-choc-macadamia-coconut-nut-bars/) not in "Low FODMAP", but look to be more or less safe
@@ -79,9 +82,8 @@ avoid:
   - some of the others, but can be too sweet
 - [88 acres](https://88acres.com) seed bars, seed butters - REI
   - bars are kind of ok
-  - [Dark chocolate sea salt seed bars](https://88acres.com/products/dark-chocolate-sea-salt-seed-bars) - a little bit too salty
   - [Double chocolate mocha seed bars](https://88acres.com/products/double-chocolate-mocha-seed-bars)
-  - [Pumpkin seed butter](https://88acres.com/products/pumpkin-seed-butter-with-no-added-sugar-pouches) or [this one](https://88acres.com/products/pumpkin-seed-butter-with-no-added-sugar)
+  - [Dark chocolate sea salt seed bars](https://88acres.com/products/dark-chocolate-sea-salt-seed-bars) - a little bit too salty
   - may try some others, but be carefull with sunflower-based!
 - [Stellar Labs](https://www.stellarlabsnutrition.com)
   - not tried: expensive, no convenient variety option, and reviews aren't the best
