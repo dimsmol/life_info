@@ -1,7 +1,7 @@
 # Group Gear Checklist
 
 - navigation
-  - [ ] [map](https://www.alltrails.com/) (print at FedEx or [spinnprint](https://www.spinnprint.com/), may want [waterproof paper](https://www.rei.com/product/896270/rite-in-the-rain-all-weather-letter-copier-and-laser-paper))
+  - [ ] [map](../maps.md)
     - [ ] protective case
   - [ ] [compass](https://www.rei.com/product/890930/suunto-m-3-d-leader-compass) (try to find something better?)
   - [ ] _(opt)_ [GPS](https://buy.garmin.com/en-US/US/p/140020) (see also [older model](https://buy.garmin.com/en-US/US/p/63801), consider also [eTrex](https://buy.garmin.com/en-US/US/p/518046))
