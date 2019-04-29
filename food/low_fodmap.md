@@ -65,7 +65,8 @@ avoid:
   - [Stay Thin Peanut Butter](https://julianbakery.com/product/stay-thin-protein-bar-egg-white/) - low sugar, but unusual taste due to monk fruit extract
 - [Carman's](https://www.carmanskitchen.com.au) bars, etc. - select "Low FODMAP" diet in products section
   - really good
-  - [Dar choc macadamia coconut bars](https://www.carmanskitchen.com.au/our-products/dark-choc-macadamia-coconut-nut-bars/) not in "Low FODMAP", but look to be more or less safe
+  - [Dark choc macadamia coconut bars](https://www.carmanskitchen.com.au/our-products/dark-choc-macadamia-coconut-nut-bars/) not in "Low FODMAP", but look to be more or less safe
+  - avoid muesli bars - they are so-so
   - where to buy:
     - [Amazon](https://amazon.com), e.g. [here](https://www.amazon.com/gp/product/B0775J717D) - usually very expensive or with expensive delivery
     - [Discount Health Foods](https://www.discounthealthfoods.com.au) - Australian store with flat rate international delivery
@@ -112,7 +113,7 @@ avoid:
 - _(unlim)_ sugar free bacon - Whole Foods
 - _(unlim)_ fish & sea food - Sprouts, Trader Joe's, SafeWay
   - Salmon
-  - Tuna, Cod, etc. - Sprouts
+  - Tuna, Tilapia, Rock fish, Cod, etc. - Sprouts
   - Nova Salmon Pieces (smoked salmon) - Trader Joe's
   - canned fish - Milk Pail
   - fish in packets - SafeWay
@@ -120,6 +121,7 @@ avoid:
 - _(unlim)_ meat - Trader Joe's
   - steaks, beef patties, ground beef & pork
   - beef (ready to eat)
+    - avoid ready to eat pork - looks and smells not good
   - prosciutto
 - _(unlim)_ baked chicken (unseasoned) - Sprouts, Whole Foods
 - _(unlim)_ caviar - Whole Foods
@@ -136,31 +138,31 @@ avoid:
 
 ## fruits & vegetables
 
+- _(unlim)_ dragonfruit - SafeWay, Whole Foods
+  - Milk Pail has some other kind and it's too sweet
+- _(unlim)_ peeled baby carrot - SafeWay, Whole Foods
+- banana - SafeWay, Whole Foods, Milk Pail
+  - prefer unripe, it's safer
+- _(unlim)_ cucumber - Milk Pail
+- green onion - SafeWay
 - _(unlim)_ plantain - Whole Foods
   - prefer very ripe, not ripe enough is only for cooking
-- _(unlim)_ dragonfruit - Whole Foods, SafeWay
-  - Milk Pail has some other kind and it's too sweet
 - _(unlim)_ star fruit - SafeWay, Sprouts, Whole Foods
 - _(unlim)_ papaya
 - _(unlim)_ strawberry - Whole Foods, SafeWay
-- _(unlim)_ cucumber - Milk Pail
 - _(unlim)_ radish - Milk Pail
 - _(unlim)_ carrot - Milk Pail
-- _(unlim)_ peeled baby carrot - Whole Foods
 - _(unlim)_ parsnip - Milk Pail
 - _(unlim)_ breadfruit - could not find
 - _(unlim)_? potato - Milk Pail
   - safe in theory, but on practice can be problematic?
 - raspberry - Whole Foods, SafeWay
-- pineapple pieces - SafeWay, Whole Foods, Walgreens
+- pineapple pieces - Whole Foods, SafeWay, Walgreens
 - iceberg lettuce - Milk Pail
 - tomato - Milk Pail
-- banana - Whole Foods, Milk Pail
-  - prefer unripe, it's safer
 - dill - Milk Pail
 - parsley - Milk Pail
 - baby spinach - Milk Pail
-- green onion - Milk Pail
 - olives (no garlic) - Trader Joe's
 - _(small)_ kohlraby - Milk Pail
 - _(small)_ broccoli - Milk Pail
