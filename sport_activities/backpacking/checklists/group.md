@@ -89,7 +89,6 @@
     - NOTE: try smaller one?
     - [ ] [pouch](https://www.amazon.com/gp/product/B0017D0ILA/)
 - [ ] _(opt)_ binoculars
-- [ ] _(opt)_ [radios](https://www.rei.com/product/122916/midland-tt61vp3-36-channel-gmrs-2-way-radios-with-charger-pair)
-  - NOTE: may want to look at alternatives
+- [ ] _(opt)_ [radios](../../common/radio.md)
 - [ ] _(opt)_ [warmers](https://www.rei.com/product/760936/grabber-hand-warmers-10-pairs)
   - NOTE: don't look to be reliable, may want to look for other options

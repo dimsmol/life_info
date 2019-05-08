@@ -26,7 +26,7 @@
 
 ## additional (for Mountains)
 
-- [ ] radios (like [this one](https://midlandusa.com/product/gxt1000vp4/))
+- [ ] [radios](../common/radio.md)
 - [ ] backpack (preferably with back protection)
 - [ ] thermos
 - [ ] toolset (screwdriver, etc.)
