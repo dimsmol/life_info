@@ -1,5 +1,6 @@
 # Equipment Checklist
 
+- [ ] ski pass
 - [ ] board
 - [ ] cover for board
 - [ ] bindings
