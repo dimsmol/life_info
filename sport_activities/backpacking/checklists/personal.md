@@ -1,15 +1,13 @@
 # Personal Gear Checklist
 
-- [ ] backpack: 65l-80l, look at Osprey
+- [ ] backpack: 65l-80l
   - [ ] pack cover
   - [ ] _(opt)_ day pack
-- [ ] [sleeping bag](https://www.rei.com/product/127386/rei-co-op-trail-pod-30-sleeping-bag)
-  - NOTE: this one is pretty heavy and bulky, but cheap
-  - NOTE: synthetic is heavier and more bulky than down, but less affected by water and easier to care
-  - [ ] [compression sack](https://www.rei.com/product/118854/rei-co-op-lightweight-compression-stuff-sack) (choose right size)
-    - NOTE: may prefer waterproof
-  - [ ] [liner](https://www.rei.com/product/850235/cocoon-microfiber-mummy-liner)
-  - [ ] [sleeping pad](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad)
+- [ ] sleeping bag: proper temperature range
+  - synthetic is heavier and bulkier than down, but less affected by water and easier to care about
+  - [ ] compression sack (choose right size, may prefer waterproof)
+  - [ ] liner
+  - [ ] sleeping pad:
     - WARN: choose proper size - regular or short (short is shorter, but more compact)
     - NOTE: may prefer inflatable, but I personally like this one
 - sun protection

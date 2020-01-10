@@ -4,9 +4,7 @@
 
 - [AllTrails](https://www.alltrails.com/) is good for printing
   - print at FedEx or [spinnprint](https://www.spinnprint.com/)
-  - may want special paper:
-    - [all-weather](https://www.rei.com/product/896270/rite-in-the-rain-all-weather-letter-copier-and-laser-paper)
-    - [waterproof](https://www.rei.com/product/896272/rite-in-the-rain-duracopy-waterproof-copier-laser-paper-letter)
+  - use [waterproof paper](https://www.rei.com/product/896272/)
 
 ## GPS
 

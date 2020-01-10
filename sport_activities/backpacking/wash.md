@@ -1,8 +1,0 @@
-# Wash
-
-- [odor eliminator](https://www.rei.com/product/139256/gear-aid-revivex-odor-eliminator-10-fl-oz)
-- [wash and waterproofing](https://www.rei.com/product/783563/nikwax-hard-shell-outerwear-cleaner-and-waterproofing-duo-pack)
-  - GoreTex compatible
-  - NOTE: can buy separately [wash](https://www.rei.com/product/724687/nikwax-tech-wash-10-fl-oz), [waterproofing](https://www.rei.com/product/724690/nikwax-txdirect-20-wash-in-water-repellent-treatment-10-fl-oz)
-- [footwear cleaning gel](https://www.rei.com/product/620639/nikwax-footwear-cleaning-gel)
-  - GoreTex compatible
