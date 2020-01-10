@@ -3,32 +3,29 @@
 - [ ] backpack: 65l-80l
   - [ ] pack cover
   - [ ] _(opt)_ day pack
-- [ ] sleeping bag: proper temperature range
-  - synthetic is heavier and bulkier than down, but less affected by water and easier to care about
-  - [ ] compression sack (choose right size, may prefer waterproof)
-  - [ ] liner
-  - [ ] sleeping pad:
-    - WARN: choose proper size - regular or short (short is shorter, but more compact)
-    - NOTE: may prefer inflatable, but I personally like this one
+- sleep
+  - [ ] sleeping bag (choose proper warmth)
+    - synthetic is heavier and bulkier than down, but less affected by water and easier to care about
+    - [ ] compression sack (choose right size, may prefer waterproof)
+    - [ ] liner
+  - [ ] sleeping pad: regular size
+  - [ ] _(opt)_ pillow
 - sun protection
-  - [ ] [hat](https://www.rei.com/product/767086/sunday-afternoons-adventure-hat) with brims and neck protection
-  - [ ] [sunglasses](https://www.rei.com/product/118708/peppers-nightfall-polarized-sunglasses) (look for uv-protected, polarized)
-    - [ ] [retainer](https://www.rei.com/product/892951/chums-slip-fit-rope-eyeglass-retainer)
-    - [ ] [case](https://www.amazon.com/gp/product/B00IJWS4WC/) (ensure proper size)
-  - [ ] [lip balm](https://www.rei.com/product/785330/banana-boat-sport-sunscreen-lip-balm-spf-50)
+  - [ ] hat with brims and neck protection
+  - [ ] sunglasses
+    - [ ] retainer
+    - [ ] case
+  - [ ] lip balm
 - light
-  - [ ] [headlamp](https://www.rei.com/product/109856/petzl-tikka-headlamp) (may want something more waterproof)
-  - [ ] spare flashlight (can reuse one from bicycle)
+  - [ ] headlamp
+  - [ ] _(opt)_ flashlight
 - water
-  - [ ] [nalgene bottle](https://www.rei.com/product/141628/nalgene-wide-mouth-water-bottle-32-fl-oz) or [klean kanteen bottle](https://www.rei.com/product/855001/klean-kanteen-wide-mouth-water-bottle-40-fl-oz) or both (or [square version](https://www.rei.com/product/402058/nalgene-space-saver-bottle-64-fl-oz))
-    - WARN: need 2l or more total per person
-    - NOTE: metal one can be used for boiling in emergency situation
+  - [ ] bottles: 2l or more total per person
+    - metal one can be used for boiling in emergency situation
 - dinnerware
-  - [ ] [mug](https://www.rei.com/product/116117/gsi-outdoors-infinity-mug)
-  - [ ] _(opt)_ [bowl](https://www.rei.com/product/100082/gsi-outdoors-campware-serving-bowl) (or something like [this]([16oz](https://www.rei.com/product/112536/nalgene-straight-sided-jar-16-fl-oz))
-    - NOTE: not really needed if you eat directly from freeze dried food packet
-  - [ ] spoon (take any from home)
-  - [ ] _(opt)_ [plate](https://www.rei.com/product/895463/gsi-outdoors-infinity-plate)
+  - [ ] mug
+  - [ ] large mug: ~32oz
+  - [ ] spoon
 - paperwork
   - [ ] id
   - [ ] credit card
@@ -36,25 +33,15 @@
 - personal care
   - [ ] personal medications
   - [ ] toothbrush
-  - [ ] [head net](https://www.rei.com/product/780999/sea-to-summit-head-net) (needs hat with brims to work)
-  - [ ] [towel](https://www.rei.com/product/127505/rei-co-op-multi-towel) (size L for full body)
+  - [ ] head net
+  - [ ] towel
 - footwear
-  - [ ] [boots](https://www.rei.com/product/895632/la-sportiva-trango-trk-gtx-hiking-boots-mens) (size 10.5)
-    - WARN: some people reported water resistance problems, may want to try some other model next time
-    - NOTE: La Sportiva is well represented in Saratoga REI store
-    - NOTE: depending on conditions may prefer:
-      - [low profile](https://www.rei.com/product/129503/la-sportiva-spire-gtx-hiking-shoes-mens)
-      - [non-waterproof](https://www.rei.com/product/110660/la-sportiva-wildcat-trail-running-shoes-mens) (dry fast)
-        - NOTE: these ones didn't last long, try [raptor](https://www.rei.com/product/848243/la-sportiva-ultra-raptor-trail-running-shoes-mens) next time?
-  - [ ] [gaiters](https://www.rei.com/product/852794/outdoor-research-rocky-mountain-low-gaiters)
-    - NOTE: for high boots they are useful only in rainy / muddy conditions
-    - NOTE: for low boots may need some other model
-  - [ ] [socks](https://www.rei.com/product/894205/smartwool-phd-outdoor-light-crew-socks-mens): wool or synthetic (size M?)
-    - NOTE: most wool socks have lifetime warranty: send old back to manufacturer, get new ones (pay for delivery only)
+  - [ ] boots
+  - [ ] gaiters
+  - [ ] socks: wool or synthetic
     - [ ] spare socks
-    - [ ] _(opt)_ [line socks](https://www.rei.com/product/879245/smartwool-anchor-line-socks-mens) (not sure how much useful)
-  - [ ] sandals TODO
-    - NOTE: for using both in camp and crossing rivers
+    - [ ] _(opt)_ liner socks
+  - [ ] sandals (for using both in camp, crossing rivers)
 - clothes
   - [ ] synthetic T-shirts
       - [ ] include long sleeve for sun protection
@@ -68,19 +55,17 @@
     - [ ] gloves
     - [ ] hat (windstopper is great)
     - [ ] _(opt)_ balaclava
-    - [ ] _(opt)_ fleece pants
-  - underwear
-    - [ ] [top](https://www.rei.com/product/112042/smartwool-merino-150-pattern-crew-base-layer-long-sleeve-top-mens) (size M)
-    - [ ] [pants](https://www.rei.com/product/112045/smartwool-merino-150-long-underwear-bottoms-mens) (size M)
-  - [ ] _(opt)_ [buff](https://www.rei.com/product/736217/buff-high-uv-coolmax-multifunctional-headwear) or bandana (choose proper warmth)
+    - base
+      - [ ] top
+      - [ ] pants
+  - [ ] _(opt)_ buff or bandana (choose proper warmth)
 - rain wear
   - [ ] jacket
-  - [ ] [pants](https://www.rei.com/product/865002/arcteryx-beta-sl-rain-pants-mens-short) (size M)
-- [ ] [trekking poles](../trekking_poles.md)
+  - [ ] pants
+- [ ] trekking poles
+  - [ ] tip protectors
 - emergency
-  - [ ] [whistle](https://www.rei.com/product/100521/whistles-for-life-tri-power-whistle)
-  - [ ] [reflective blanket](https://www.rei.com/product/813512/sol-emergency-blanket)
-- misc
-  - [ ] outdoor [watch](https://buy.garmin.com/en-US/US/p/582444/pn/010-01847-03), preferably with altimeter
-  - [ ] _(opt)_ [seat pad](https://www.rei.com/product/829881/therm-a-rest-z-seat-pad)
-- [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need it where there are grizzly bears
+  - [ ] whistle
+  - [ ] reflective blanket
+- [ ] outdoor watch
+- [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need in grizzly lands

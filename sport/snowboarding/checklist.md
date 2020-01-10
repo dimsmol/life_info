@@ -3,7 +3,7 @@
 - [ ] cover for board
 - [ ] bindings
 - [ ] boots
-- [ ] _opt_ snowboard traction
+- [ ] _(opt)_ snowboard traction
 - clothes
   - [ ] jacket
   - [ ] fleece
@@ -30,7 +30,7 @@
 - [ ] thermos
 - [ ] toolset (screwdriver, etc.)
 - [ ] warmers
-- [ ] _opt_ sunglasses
+- [ ] _(opt)_ sunglasses
 - [ ] sewing kit
 - [ ] lighter
 - first aid

@@ -3,92 +3,88 @@
 - navigation
   - [ ] [map](../maps.md)
     - [ ] protective case
-  - [ ] [compass](https://www.rei.com/product/890930/suunto-m-3-d-leader-compass) (try to find something better?)
-  - [ ] _(opt)_ [GPS](https://buy.garmin.com/en-US/US/p/140020) (see also [older model](https://buy.garmin.com/en-US/US/p/63801), consider also [eTrex](https://buy.garmin.com/en-US/US/p/518046))
+  - [ ] compass
+    - [ ] usage guide
+  - [ ] _(opt)_ GPS
+    - [ ] load [maps](../maps.md)
 - light / electricity
-  - [ ] [lantern](https://www.rei.com/product/109954/petzl-noctilight-headlamp-case)
-  - [ ] _(opt)_ [candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit)
-    - [ ] [candles](https://www.rei.com/product/410128/uco-candle-lantern-candles)
+  - [ ] lantern
+  - [ ] _(opt)_ candle lantern
+    - [ ] candles
   - [ ] extra batteries
-  - [ ] [recharger](https://www.rei.com/product/123286/goal-zero-venture-70-recharger)
+  - [ ] power bank
 - fire
-  - [ ] [stormproof matches](https://www.rei.com/product/106184/uco-stormproof-match-kit) in waterproof container
-  - [ ] [strike igniter](https://www.rei.com/product/101108/msr-strike-igniter)
+  - [ ] stormproof matches in waterproof container
+  - [ ] strike igniter
   - [ ] lighter (BIC is ok)
-  - [ ] fire starter
-    - NOTE: in emergency, alcohol-based [hand sanitizer gel](https://www.instacart.com/vons/products/189744-signature-home-hand-sanitizer-2-fl-oz) can be used as one
-- [ ] [stove](https://www.msrgear.com/stoves/stove-systems/windburner-duo-system) (see also [stoves](../stoves.md))
-  - WARN: [issues to be aware of](https://adventuresinstoving.blogspot.com/2014/11/msr-windboiler-issues-known-and.html)
-  - WARN: for cold conditions use one with [inverted canister](https://www.msrgear.com/stoves/canister-stoves/windpro-ii) (or [this one](https://www.msrgear.com/stoves/canister-stoves/whisperlite-universal))
+  - [ ] fire starter (can use alcohol-based hand sanitizer gel)
+- [ ] [stove](../stoves.md))
   - [ ] fuel
-    - WARN: for cold conditions read [this](https://adventuresinstoving.blogspot.com/2016/12/gas-stoves-in-cold-weather-regulator.html)
-  - [ ] [canister stand](https://www.rei.com/product/814692/msr-universal-fuel-canister-stand) _(opt)_ (depending on stove)
-    - or [this one](https://www.rei.com/product/884004/jetboil-fuel-can-stabilizer)
-  - [ ] _(opt)_ [canister recycling tool](https://www.rei.com/product/813638/jetboil-crunchit-recycling-tool)
-  - [ ] long plastic spoon for pot
+  - [ ] canister stand _(opt)_ (depending on stove)
   - if *not* integrated:
-    - [ ] pot, one of: [aluminum](https://www.msrgear.com/cookware/aluminum-nonstick/ceramic-2-pot-set) ([another one](https://www.rei.com/product/128506/sea-to-summit-alpha-pot-19-liters)), [steel](https://www.msrgear.com/cookware/stainless-steel/alpine-2-pot) ([another one](https://www.rei.com/product/121090/solo-stove-pot-1800-18-liters))
-    - [ ] _(opt)_ [wind screen](https://www.rei.com/product/406084/msr-windscreen-and-heat-reflector)
-    - [ ] _(opt)_ [heat exchanger](https://www.msrgear.com/cookware/heat-exchanger)
+    - [ ] pot
+    - [ ] wind screen
+    - [ ] _(opt)_ heat exchanger
 - tools
-  - [ ] [knife](https://www.amazon.com/gp/product/B005EOJAKI/) (see also [knives](../knives.md))
-  - [ ] [multi-tool](https://www.rei.com/product/136739/leatherman-wave-plus-multitool) (or [pocket version](https://www.rei.com/product/813346/leatherman-squirt-ps4-multi-tool))
+  - [ ] [knife](../knives.md)
+  - [ ] multi-tool
   - [ ] cord 50'
+    - [ ] guide on knots
   - [ ] sewing kit
   - [ ] duct tape
-- dinnerware
-  - [ ] [salt and pepper shaker](https://www.rei.com/product/815539/gsi-outdoors-ultralight-salt-pepper-shaker)
+  - [ ] _(opt)_ fabric patches
+  - [ ] _(opt)_ buckles
 - water
-  - [ ] [filter](https://www.rei.com/product/103071/sawyer-squeeze-water-filter-plus)
-  - [ ] backup chemical treatment
-    - [chlorine](https://www.rei.com/product/736898/potable-aqua-chlorine-dioxide-tablets-package-of-30) or [iodine](https://www.rei.com/product/406032/potable-aqua-iodine-and-taste-neutralizer-tablets)
-    - WARN: iodine doesn't help against Cryptosporidium
-    - NOTE: chlorine treated water can be used [after 30 min](https://www.rei.com/product/695229/katadyn-micropur-purification-tablets-package-of-30), but needs 4 hours to help against Cryptosporidium
-  - [ ] [folding bucket](https://www.rei.com/product/847589/sea-to-summit-ultra-sil-folding-bucket) (or [this one](https://www.rei.com/product/782973/sea-to-summit-folding-bucket-10-liters))
-  - [ ] _(opt)_ [pocket shower](https://www.rei.com/product/758045/sea-to-summit-pocket-shower)
-- [ ] tent: [big agnes](https://www.rei.com/product/110208/big-agnes-copper-spur-hv-ul-2-mtnglo-tent), [hubba hubba](https://www.rei.com/product/863076/msr-hubba-hubba-nx-2-person-tent), etc.
-  - NOTE: 2 person is pretty small, take a [look at 3](https://www.rei.com/product/110210/big-agnes-copper-spur-hv-ul-3-mtnglo-tent)?
+  - [ ] filter
+  - [ ] chlorine or iodine backup chemical purifier
+    - iodine doesn't help against Cryptosporidium
+    - chlorine treated water usually needs 4 hours to help against Cryptosporidium
+  - [ ] folding bucket
+  - [ ] _(opt)_ pocket shower
+- [ ] tent
   - [ ] footprint
   - [ ] repair kit
-  - [ ] better stakes - [steel](https://www.rei.com/product/693154/rei-co-op-steel-stake) or [ground hog](https://www.rei.com/product/682543/msr-ground-hog-stake)
-    - WARN: ground hog can be hard to pull out
-    - NOTE: there is also mini ground hog, cyclone, [etc.](https://www.rei.com/c/tent-stakes)
-  - [ ] _(opt)_ [hammer](https://www.rei.com/product/102781/msr-tent-stake-hammer) (or [this one](https://www.rei.com/product/729798/coghlans-tent-peg-mallet-puller))
-- [ ] [bear canister](https://www.rei.com/product/624081/garcia-bear-resistant-container) (or expensive [carbon one](https://www.wild-ideas.net/))
-  - WARN: check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
+  - [ ] additional/better stakes
+    - ground hog can be hard to pull out
+  - [ ] _(opt)_ hammer
+- [ ] bear canister
+  - check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
+- permits
+  - use waterproof paper
+  - [ ] california fire permit
+  - [ ] FCC (radio/GMRS) permit
+  - [ ] backpacking permit
+- trip itinerary
+  - [ ] left one copy with friend
+  - [ ] put another copy under car seat
 - paperwork
-  - [ ] waterproof container for papers and cellphones
-  - [ ] permits
   - [ ] paper and pen
   - [ ] _(opt)_ guidebook
 - sanitation / personal care
-  - [ ] [trowel](https://www.rei.com/product/131611/thetentlab-the-deuce-2-backcountry-trowel)
-  - [ ] toilet paper (remove middle carton (if needed) and flatten)
-  - [ ] [wet wipes](https://www.rei.com/product/879973/sea-to-summit-wilderness-wipes)
-    - NOTE: regular ones with cap can even be better
-  - [ ] [facial tissue](https://www.burpy.com/tom-thumb/signature-home-softly-facial-tissue-pocket-pack-2-ply/product-detail/1939530) (pocket pack)
-  - [ ] [hand sanitizer](https://www.instacart.com/vons/products/189744-signature-home-hand-sanitizer-2-fl-oz)
+  - [ ] trowel
+  - [ ] toilet paper (remove middle carton and flatten)
+  - [ ] facial tissue
+  - [ ] _(opt)_ wet wipes
+  - [ ] hand sanitizer
   - [ ] comb
   - [ ] tweezers
   - [ ] small scissors
   - [ ] toothpaste (travel size)
-  - [ ] [biodegradable soap](https://www.rei.com/product/692852/campsuds-in-nalgene-bottle-4-oz) (or [with citronella](https://www.rei.com/product/654041/campsuds-soap-with-citronella-4-oz) or [this one](https://www.rei.com/product/799977/sea-to-summit-citronella-wilderness-wash-soap-3-fl-oz))
-    - [ ] [convenient squeeze bottle](https://www.rei.com/product/131773/humangear-gotoob-small-squeeze-bottle-17-fl-oz)
-  - [ ] [sunscreen](https://www.neutrogena.com/sun/sun-adult/sport-face-oil-free-lotion-sunscreen-broad-spectrum-spf-70/6887025.html)
-    - NOTE: look for SPF 50 or more, uva + uvb (broad spectrum), water resistant
-  - [ ] [insect repellent](https://www.rei.com/product/828908/repel-lemon-eucalyptus-pump-spray-insect-repellent-4-fl-oz)
-    - WARN: for especially bad conditions consider [Picaridin](https://www.rei.com/product/887628/sawyer-picaridin-insect-repellent-lotion-4-fl-oz) or [DEET](https://www.rei.com/product/799528/sawyer-jungle-juice-100-pump-spray-insect-repellent-98-percent-deet-2-fl-oz) (may damage some plastics and fabrics) or [Permethrin](https://www.rei.com/product/768970/sawyer-permethrin-pump-spray-24-oz) (for clothes, deadly for cats!!!)
+  - [ ] biodegradable soap
+  - [ ] sunscreen: SPF 50 or more, uva + uvb (broad spectrum), water resistant
+  - [ ] insect repellent
+    - Citronella is safest, but weakest option
+    - for especially bad conditions consider:
+      - Picaridin
+      - DEET (may damage some plastics and fabrics)
+      - Permethrin (for clothes only, deadly for cats!!!)
 - plastic bags
   - [ ] small (for trash, used toilet paper, just in case, etc.)
   - [ ] large - unscented!!! (for dirty stuff, etc.)
-- trip itinerary
-  - [ ] left one copy with friend
-  - [ ] put another copy under car seat
 - emergency
-  - [ ] [signal mirror](https://www.amazon.com/gp/product/B01M215N97/)
-    - NOTE: try smaller one?
-    - [ ] [pouch](https://www.amazon.com/gp/product/B0017D0ILA/)
+  - [ ] signal mirror
+- [ ] _(opt)_ pocket blanket
 - [ ] _(opt)_ binoculars
+  - [ ] lens cleaner
 - [ ] _(opt)_ [radios](../../common/radio.md)
-- [ ] _(opt)_ [warmers](https://www.rei.com/product/760936/grabber-hand-warmers-10-pairs)
-  - NOTE: don't look to be reliable, may want to look for other options
+- [ ] _(opt)_ warmers

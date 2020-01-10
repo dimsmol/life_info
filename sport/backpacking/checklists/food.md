@@ -1,34 +1,15 @@
 # Food Checklist
 
 - [ ] salt
-- [ ] sugar
-- [ ] cocoa powder or [cocoa](https://www.amazon.com/Trader-Joes-Organic-Instant-Packets/dp/B00BT1CGYC) or [this one](https://www.instacart.com/ralphs/products/3328443-starbucks-marshmallow-hot-cocoa-mix-8-oz)
-  - [ ] _(opt)_ freeze dried milk
-- [ ] _(opt)_ coffee or tea
-- [ ] [electrolytes](https://www.rei.com/product/107488/saltstick-fastchews-chewable-electrolyte-tablets) (lemon-lime is ok)
-- [ ] _(opt)_ [fish](https://www.rei.com/product/714659/seabear-ready-to-eat-wild-salmon-35-oz)
-  - NOTE: there are options like this in SafeWay (salmon, tuna) - not really tasty, but ok
-- energy bars, gels, mix, etc.
-  - [ ] [protein mix](https://www.rei.com/product/752836/hammer-nutrition-recoverite-drink-mix-single-serving)
-  - NOTE: Clif Bars are well represented in SafeWay, see also [clifbar site](https://shop.clifbar.com/)
-    - [ ] [protein bars](https://www.rei.com/product/117611/clif-whey-protein-bar), [one more](https://www.rei.com/product/716080/clif-builders-bar), they are all pretty good
-    - [ ] [energy bars](https://www.rei.com/product/108105/clif-nut-butter-filled-bars), [one more](https://www.rei.com/product/604787/clif-energy-bar)
-  - [ ] [energy gels](https://www.rei.com/product/610028/gu-energy-gel) (mostly just carbs)
-  - [ ] try [superfood bites](https://www.urbanfoods.com/product/tart-cherry-apple/) (can be found in SafeWay)
+- [ ] coffee
+- [ ] _(opt)_ nutella
+- [ ] protein bars
 - [ ] nuts (pecans, almonds)
-- [ ] bread (dried pita or pumpernickel)
-- [ ] [biltong](https://eatbiltong.com/)
-- fruits
+- [ ] bread
+- fruits/vegies
   - [ ] fresh for first days
-  - [ ] dehydrated for longer time (try [this](https://peeledsnacks.com/snack/apple-2-the-core/)?)
+  - [ ] dehydrated for longer time
 - [ ] freeze dried
-  - WARN: what marked 2 servings is usually actually more like 1.5 serving
-  - mountain house
-    - NOTE: safe choice, almost all reviews are positive (still check [rejected](../rejected.md))
-    - [scrambled eggs with ham and peppers](https://www.rei.com/product/693933/mountain-house-scrambled-eggs-with-ham-and-peppers-2-servings)
-    - [chicken noodle casserole](https://www.rei.com/product/115297/mountain-house-homestyle-chicken-noodle-casserole-3-servings)
-    - [italian style pepper steak](https://www.amazon.com/gp/product/B00RJM2GX6/)
-  - backpacker's pantry
-    - WARN: check reviews! below are some ok ones
-    - [potato stew with beef](https://www.rei.com/product/801229/backpackers-pantry-shepherds-potato-stew-with-beef-2-servings)
-    - [fettuccini alfredo with chicken](https://www.rei.com/product/801227/backpackers-pantry-fettuccini-alfredo-with-chicken-2-servings)
+  - most of Mountain House is ok
+  - what marked 2 servings is usually more like 1.5 serving
+- [ ] _(opt)_ canned

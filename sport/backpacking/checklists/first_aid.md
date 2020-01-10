@@ -15,8 +15,8 @@
   - [ ] cotton-tipped swabs
   - [ ] safety pins
   - [ ] butterfly bandage / wound closure strips / stitches tape
-  - [ ] _opt_ elastic wrap
-  - [ ] _opt?_ hemostatic gauze
+  - [ ] _(opt)_ elastic wrap
+  - [ ] _(opt)_ hemostatic gauze
 - medications
   - [ ] pain-relief (ibuprofen)
   - [ ] antihistamine
@@ -26,7 +26,7 @@
     - [ ] insect-sting relief (AfterBite)
     - poison ivy/oak
       - [ ] treatment
-      - [ ] _opt_ cleanser (can use alcohol-based hand sanitizer)
+      - [ ] _(opt)_ cleanser (can use alcohol-based hand sanitizer)
     - [ ] aloe vera gel (sun exposure relief)
     - [ ] bepanthen
   - cold

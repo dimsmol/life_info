@@ -1,0 +1,1 @@
+- LR41 battery = 392 Energizer

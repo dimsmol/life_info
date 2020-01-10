@@ -1,12 +1,10 @@
-# Maps
-
 ## Paper
 
 - [AllTrails](https://www.alltrails.com/) is good for printing
   - print at FedEx or [spinnprint](https://www.spinnprint.com/)
   - use [waterproof paper](https://www.rei.com/product/896272/)
 
-## GPS
+## For GPS
 
 - Garmin topo maps aren't good, don't buy them
 - use [OSM](https://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin) instead:
