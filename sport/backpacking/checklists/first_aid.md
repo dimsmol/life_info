@@ -1,22 +1,17 @@
 # First Aid Checklist
 
-- misc
-  - [ ] manual
-  - [ ] waterproof container
+- [ ] manual
 - wounds
   - [ ] antiseptic wipes (benzalkonium chloride (BZK)-based preferred, alcohol-based ok)
   - [ ] adhesive bandage (flexible fabric)
   - [ ] non-stick pads
   - [ ] medical adhesive tape (cloth tape)
   - [ ] rolled gauze / hurt-free wrap
-  - [ ] moleskin
-  - [ ] compound tincture of benzoin
-  - [ ] liquid bandage
-  - [ ] cotton-tipped swabs
-  - [ ] safety pins
   - [ ] butterfly bandage / wound closure strips / stitches tape
+  - [ ] _(opt)_ liquid bandage
   - [ ] _(opt)_ elastic wrap
   - [ ] _(opt)_ hemostatic gauze
+- [ ] blister kit
 - medications
   - [ ] pain-relief (ibuprofen)
   - [ ] antihistamine
@@ -27,7 +22,8 @@
     - poison ivy/oak
       - [ ] treatment
       - [ ] _(opt)_ cleanser (can use alcohol-based hand sanitizer)
-    - [ ] aloe vera gel (sun exposure relief)
+    - [ ] sun exposure relief
+    - [ ] afterburn
     - [ ] bepanthen
   - cold
     - [ ] throat lozenges
@@ -42,7 +38,12 @@
     - [ ] activated charcoal
     - [ ] laxative
 - tools
+  - [ ] small scissors
+  - [ ] twizzers
+  - [ ] tick tool
   - [ ] magnifying glass
+  - [ ] cotton-tipped swabs
+  - [ ] safety pins
   - [ ] small mirror
   - [ ] paramedic shears
   - [ ] medical nitrile gloves (avoid latex)
