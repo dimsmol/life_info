@@ -1,7 +1,7 @@
 ## USA
 
-- Park City
 - Breckenridge
+- Park City
 - Lake Tahoe:
   - Kirkwood - no crowd, best off-piste, old lifts, good for 1 day
   - Northstar	- modern, big, crowded
@@ -11,11 +11,6 @@
 ## Worldwide
 
 - [Resorts](http://www.skiresorts-test.com/)
-
-## Moscow
-
-- [Resorts](http://onboard.ru/placeitems)
-- Сорочаны - [расписание автобуса](http://www.mostransavto.ru/?page=rasp&code=86&ak=6&n=42)
 
 ## Austria
 

@@ -13,11 +13,13 @@
     - [ ] belt
   - [ ] balaсlava
   - [ ] tube scarf
-  - base layer
-  - [ ] bottom
-  - [ ] pants
+  - base layer:
+    - [ ] bottom
+    - [ ] pants
   - [ ] socks
+    - [ ] liner socks
   - [ ] gloves (preferably with wrists protection)
+    - [ ] inner gloves
 - protection:
   - [ ] helmet
   - [ ] goggles
@@ -25,15 +27,20 @@
   - [ ] elbows
   - [ ] knees
   - [ ] wrists (if gloves have no wrists protection)
-
-## additional (for Mountains)
-
+- first aid:
+  - [ ] adhesive bandage
+  - [ ] blister kit
+  - [ ] small scissors
+  - [ ] moisturizing/healing skin cream
+  - [ ] nasal drops (air can be too dry)
 - [ ] [radios](../common/radio.md)
 - [ ] backpack (preferably with back protection)
 - [ ] thermos
 - [ ] toolset (screwdriver, etc.)
-- [ ] sunglasses ?
-- [ ] warmer ?
+- [ ] warmers
+- [ ] sewing kit
+- [ ] lighter
+- [ ] _opt_ sunglasses
 
 ## notes
 
@@ -49,6 +56,8 @@
   - angles 15/0 or 15/5 are ok for beginning
 - boots must match bindings and must be good
   - it's better if they have the same manufacturer (for best fit)
+- prefer socks with medium+ cushion
+  - adding liner socks can be a good idea
 - helmet + goggles must be bought together to match one to other
   - helmet must fit well
 - goggles must be good and fit well
@@ -57,3 +66,4 @@
   - can use filters ?
   - should fit really well (no holes around or between goggles and helmet)
 - gloves must be good
+  - inner gloves proved to be very convenient
