@@ -4,21 +4,21 @@
 - [ ] bindings
 - [ ] boots
 - [ ] _opt_ snowboard traction
-- clothes:
+- clothes
   - [ ] jacket
   - [ ] fleece
   - [ ] pants
     - [ ] belt
   - [ ] balaсlava
   - [ ] tube scarf
-  - base layer:
+  - base layer
     - [ ] bottom
     - [ ] pants
   - [ ] socks
     - [ ] liner socks
   - [ ] gloves (preferably with wrists protection)
     - [ ] inner gloves
-- protection:
+- protection
   - [ ] helmet
   - [ ] goggles
   - [ ] shorts
@@ -33,9 +33,10 @@
 - [ ] _opt_ sunglasses
 - [ ] sewing kit
 - [ ] lighter
-- first aid:
+- first aid
+  - [ ] lip balm
+  - [ ] moisturizing/healing skin cream
+  - [ ] nasal drops (air can be too dry)
   - [ ] adhesive bandage
   - [ ] blister kit
   - [ ] small scissors
-  - [ ] moisturizing/healing skin cream
-  - [ ] nasal drops (air can be too dry)
