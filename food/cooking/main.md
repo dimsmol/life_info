@@ -60,7 +60,7 @@
 - cut and add salmon
 - cover everything with boiled water
 - boil for 10 min
-- _opt_ add some fresh green onion and dill 2 minutes before ready
+- _(opt)_ add some fresh green onion and dill 2 minutes before ready
 - add whipping cream ~ 1 pint (almost half a liter) for 1.5 lb of salmon
 
 ## Vegetable Soup
@@ -74,7 +74,7 @@
 - when potatoes are almost ready, add vegetable stew, also add cauliflower or broccoli
 - cover everything with boiled water
 - boil until everything is ready
-- _opt_ boil chicken separately, add when serving
+- _(opt)_ boil chicken separately, add when serving
 
 ## Vegetable Stew
 
@@ -88,7 +88,7 @@
 - when potatoes are almost ready, cut and add zucchini (yellow ones), add mushrooms and vegetable stew
 - cover everything with boiled water
 - boil until everything is ready
-- _opt_ add some fresh dill 2 minutes before ready
+- _(opt)_ add some fresh dill 2 minutes before ready
 
 ## Vegetable Stew (component)
 
