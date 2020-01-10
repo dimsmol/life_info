@@ -73,7 +73,7 @@
   - [ ] biodegradable soap
   - [ ] sunscreen: SPF 50 or more, uva + uvb (broad spectrum), water resistant
   - [ ] insect repellent
-    - Citronella is safest, but weakest option
+    - herb-based (eucalyptus, citronella) is safest, but weakest option
     - for especially bad conditions consider:
       - Picaridin
       - DEET (may damage some plastics and fabrics)
