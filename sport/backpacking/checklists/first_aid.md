@@ -1,6 +1,8 @@
 # First Aid Checklist
 
-- [ ] manual
+- misc
+  - [ ] manual
+  - [ ] blister kit
 - wounds
   - [ ] antiseptic wipes (benzalkonium chloride (BZK)-based preferred, alcohol-based ok)
   - [ ] adhesive bandage (flexible fabric)
@@ -11,7 +13,6 @@
   - [ ] _(opt)_ liquid bandage
   - [ ] _(opt)_ elastic wrap
   - [ ] _(opt)_ hemostatic gauze
-- [ ] blister kit
 - medications
   - [ ] pain-relief (ibuprofen)
   - [ ] antihistamine
@@ -47,3 +48,4 @@
   - [ ] small mirror
   - [ ] paramedic shears
   - [ ] medical nitrile gloves (avoid latex)
+  - [ ] _(opt)_ CPR face shield
