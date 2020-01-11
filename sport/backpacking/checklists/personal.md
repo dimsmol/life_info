@@ -1,5 +1,23 @@
 # Personal Gear Checklist
 
+- light
+  - [ ] headlamp
+  - [ ] _(opt)_ flashlight
+- water
+  - [ ] bottles: 2l or more total per person
+    - metal one can be used for boiling in emergency situation
+- paperwork
+  - [ ] id
+  - [ ] credit card
+  - [ ] money in cash
+- personal care
+  - [ ] personal medications
+  - [ ] toothbrush
+  - [ ] towel
+  - [ ] head net
+- emergency
+  - [ ] whistle
+  - [ ] reflective blanket
 - [ ] backpack: 65l-80l
   - [ ] pack cover
   - [ ] _(opt)_ day pack
@@ -16,32 +34,17 @@
     - [ ] retainer
     - [ ] case
   - [ ] lip balm
-- light
-  - [ ] headlamp
-  - [ ] _(opt)_ flashlight
-- water
-  - [ ] bottles: 2l or more total per person
-    - metal one can be used for boiling in emergency situation
 - dinnerware
   - [ ] mug
   - [ ] large mug: ~32oz
   - [ ] spoon
-- paperwork
-  - [ ] id
-  - [ ] credit card
-  - [ ] money in cash
-- personal care
-  - [ ] personal medications
-  - [ ] toothbrush
-  - [ ] head net
-  - [ ] towel
 - footwear
   - [ ] boots
   - [ ] gaiters
+  - [ ] sandals (for using both in camp, crossing rivers)
   - [ ] socks: wool or synthetic
     - [ ] spare socks
     - [ ] _(opt)_ liner socks
-  - [ ] sandals (for using both in camp, crossing rivers)
 - clothes
   - [ ] synthetic T-shirts
       - [ ] include long sleeve for sun protection
@@ -64,8 +67,5 @@
   - [ ] pants
 - [ ] trekking poles
   - [ ] tip protectors
-- emergency
-  - [ ] whistle
-  - [ ] reflective blanket
 - [ ] outdoor watch
 - [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need in grizzly lands

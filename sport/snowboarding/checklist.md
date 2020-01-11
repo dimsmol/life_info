@@ -15,6 +15,7 @@
     - [ ] bottom
     - [ ] pants
   - [ ] socks
+    - [ ] spare socks
     - [ ] liner socks
   - [ ] gloves (preferably with wrists protection)
     - [ ] inner gloves
