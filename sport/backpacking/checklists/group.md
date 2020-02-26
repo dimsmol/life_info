@@ -18,7 +18,7 @@
   - [ ] strike igniter
   - [ ] lighter (BIC is ok)
   - [ ] fire starter (can use alcohol-based hand sanitizer gel)
-- [ ] [stove](../stoves.md))
+- [ ] [stove](../stoves.md)
   - [ ] fuel
   - [ ] canister stand _(opt)_ (depending on stove)
   - if *not* integrated:
