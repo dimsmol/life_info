@@ -13,6 +13,8 @@
 - personal care
   - [ ] personal medications
   - [ ] toothbrush
+  - [ ] deodorant
+  - [ ] bag for used toilet paper
   - [ ] towel
   - [ ] head net
 - emergency
