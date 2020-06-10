@@ -1,6 +1,12 @@
+## Driving
+
+- Rest Areas can be found [here](http://quickmap.dot.ca.gov/)
+  - in CA you can sleep in a car at a Rest Area for 8 hours within 24 interval
+
 ## Paper
 
 - [AllTrails](https://www.alltrails.com/) is good for printing
+  - use "1:24k Exact" scale if not sure
   - print at FedEx or [spinnprint](https://www.spinnprint.com/)
   - use [waterproof paper](https://www.rei.com/product/896272/)
 

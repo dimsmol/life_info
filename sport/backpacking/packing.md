@@ -1,6 +1,4 @@
-# Misc. Checklist
-
-## packing
+# packing
 
 - nalgene bottles: 8oz or 4oz
 - packing cubes
