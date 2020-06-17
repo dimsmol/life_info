@@ -10,6 +10,7 @@
   - [ ] id
   - [ ] credit card
   - [ ] money in cash
+  - [ ] insurance
 - personal care
   - [ ] personal medications
   - [ ] toothbrush

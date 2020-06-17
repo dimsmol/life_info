@@ -1,3 +1,4 @@
+- [ ] insurance
 - [ ] ski pass
 - [ ] board
 - [ ] cover for board
