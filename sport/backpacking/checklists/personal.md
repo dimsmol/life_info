@@ -18,6 +18,7 @@
   - [ ] bag for used toilet paper
   - [ ] towel
   - [ ] head net
+  - [ ] _(opt)_ body net
 - emergency
   - [ ] whistle
   - [ ] reflective blanket
