@@ -6,6 +6,9 @@
 - water
   - [ ] bottles: 2l or more total per person
     - metal one can be used for boiling in emergency situation
+  - [ ] folding bucket
+- [ ] bear canister
+  - check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
 - paperwork
   - [ ] id
   - [ ] credit card
@@ -14,7 +17,13 @@
 - personal care
   - [ ] personal medications
   - [ ] toothbrush
+  - [ ] toothpaste (travel size)
+  - [ ] hand sanitizer
+  - [ ] facial tissue
+  - [ ] comb
   - [ ] deodorant
+  - [ ] trowel
+  - [ ] toilet paper (flatten the roll)
   - [ ] bag for used toilet paper
   - [ ] towel
   - [ ] head net
@@ -72,4 +81,5 @@
 - [ ] trekking poles
   - [ ] tip protectors
 - [ ] outdoor watch
+- [ ] _(opt)_ pocket blanket
 - [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need in grizzly lands
