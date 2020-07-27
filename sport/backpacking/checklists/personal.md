@@ -25,7 +25,7 @@
   - [ ] deodorant
   - [ ] trowel
   - [ ] toilet paper (flatten the roll)
-  - [ ] bag for used toilet paper
+  - [ ] container or bag for used toilet paper
   - [ ] head net
   - [ ] _(opt)_ body net
 - emergency
