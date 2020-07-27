@@ -16,6 +16,7 @@
   - [ ] insurance
 - personal care
   - [ ] personal medications
+  - [ ] towel
   - [ ] toothbrush
   - [ ] toothpaste (travel size)
   - [ ] hand sanitizer
@@ -25,7 +26,6 @@
   - [ ] trowel
   - [ ] toilet paper (flatten the roll)
   - [ ] bag for used toilet paper
-  - [ ] towel
   - [ ] head net
   - [ ] _(opt)_ body net
 - emergency
