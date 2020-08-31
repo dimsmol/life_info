@@ -3,10 +3,11 @@
 - light
   - [ ] headlamp
   - [ ] _(opt)_ flashlight
+  - [ ] extra batteries
 - water
   - [ ] bottles: 2l or more total per person
     - metal one can be used for boiling in emergency situation
-  - [ ] folding bucket
+  - [ ] _(opt)_ folding bucket
 - [ ] bear canister
   - check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
 - paperwork
@@ -20,9 +21,9 @@
   - [ ] toothbrush
   - [ ] toothpaste (travel size)
   - [ ] hand sanitizer
-  - [ ] facial tissue
-  - [ ] comb
   - [ ] deodorant
+  - [ ] _(opt)_ facial tissue
+  - [ ] comb
   - [ ] trowel
   - [ ] toilet paper (flatten the roll)
   - [ ] container or bag for used toilet paper
@@ -60,7 +61,7 @@
     - [ ] _(opt)_ liner socks
 - clothes
   - [ ] synthetic T-shirts
-      - [ ] include long sleeve for sun protection
+      - [ ] _(opt)_ include long sleeve for sun protection
   - bottom
     - [ ] pants
     - [ ] shorts

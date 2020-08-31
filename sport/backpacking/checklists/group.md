@@ -74,6 +74,6 @@
   - [ ] large - unscented!!! (for dirty stuff, etc.)
 - emergency
   - [ ] signal mirror
+- [ ] _(opt)_ [radios](../../common/radio.md)
 - [ ] _(opt)_ binoculars
   - [ ] lens cleaner
-- [ ] _(opt)_ [radios](../../common/radio.md)

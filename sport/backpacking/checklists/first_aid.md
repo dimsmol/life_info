@@ -10,22 +10,22 @@
   - [ ] medical adhesive tape (cloth tape)
   - [ ] rolled gauze / hurt-free wrap
   - [ ] butterfly bandage / wound closure strips / stitches tape
-  - [ ] _(opt)_ liquid bandage
   - [ ] _(opt)_ elastic wrap
   - [ ] _(opt)_ hemostatic gauze
+  - [ ] _(opt)_ liquid bandage
 - medications
   - [ ] pain-relief (ibuprofen)
   - [ ] antihistamine
   - skin
     - [ ] iodine or povidone-iodine for desinfecting wounds
     - [ ] antibacterial ointment (bacitracin)
-    - [ ] insect-sting relief (AfterBite)
+    - [ ] bepanthen
+    - [ ] insect-sting relief (hydrocortisone, AfterBite)
     - poison ivy/oak
       - [ ] treatment
       - [ ] _(opt)_ cleanser (can use alcohol-based hand sanitizer)
     - [ ] sun exposure relief
     - [ ] afterburn
-    - [ ] bepanthen
   - cold
     - [ ] throat lozenges
     - [ ] nasal drops
