@@ -22,6 +22,7 @@
     - [ ] case
   - [ ] towel
   - [ ] toothbrush
+  - [ ] _(opt)_ floss
   - [ ] toothpaste (travel size)
   - [ ] hand sanitizer
   - [ ] deodorant
