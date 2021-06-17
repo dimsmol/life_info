@@ -34,7 +34,7 @@
   - [ ] body net
 - emergency
   - [ ] whistle
-  - [ ] reflective blanket
+  - [ ] emergency bivy or reflective blanket
 - [ ] backpack: 65l-80l
   - [ ] pack cover
   - [ ] _(opt)_ day pack
