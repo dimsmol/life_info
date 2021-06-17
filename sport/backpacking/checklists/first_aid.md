@@ -4,48 +4,47 @@
   - [ ] manual
   - [ ] blister kit
 - wounds
-  - [ ] antiseptic wipes (benzalkonium chloride (BZK)-based preferred, alcohol-based ok)
   - [ ] adhesive bandage (flexible fabric)
   - [ ] non-stick pads
   - [ ] medical adhesive tape (cloth tape)
   - [ ] rolled gauze / hurt-free wrap
   - [ ] butterfly bandage / wound closure strips / stitches tape
-  - [ ] _(opt)_ elastic wrap
   - [ ] _(opt)_ hemostatic gauze
+  - [ ] _(opt)_ tourniquet (to stop bleeding)
+  - [ ] _(opt)_ antiseptic wipes (benzalkonium chloride (BZK)-based preferred, alcohol-based ok)
   - [ ] _(opt)_ liquid bandage
 - medications
   - [ ] pain-relief (ibuprofen)
   - [ ] antihistamine
   - skin
-    - [ ] iodine or povidone-iodine for desinfecting wounds
-    - [ ] antibacterial ointment (bacitracin)
     - [ ] bepanthen
-    - [ ] insect-sting relief (hydrocortisone, AfterBite)
+    - [ ] iodine
+    - [ ] antibacterial ointment (multi-antibiotic, bacitracin)
+    - [ ] anti-rush, insect-sting relief (hydrocortisone)
     - poison ivy/oak
-      - [ ] treatment
+      - [ ] _(opt)_ treatment (can use hydrocortisone)
       - [ ] _(opt)_ cleanser (can use alcohol-based hand sanitizer)
-    - [ ] sun exposure relief
-    - [ ] afterburn
-  - cold
+    - [ ] _(opt)_ sun exposure relief (can use bepanthen)
+    - [ ] _(opt)_ afterburn (can use bepanthen)
+  - nose / throat
+    - [ ] nose lubrication
     - [ ] throat lozenges
-    - [ ] nasal drops
-    - [ ] tablets
   - ear / eye
-    - [ ] lubricating eye drops
-    - [ ] ear drops
+    - [ ] _(opt)_ lubricating eye drops
+    - [ ] _(opt)_ ear drops (most of options you can buy are homeopathic, avoid them)
   - tummy
-    - [ ] antacid
-    - [ ] loperamide (diarrhea)
-    - [ ] activated charcoal
-    - [ ] laxative
+    - [ ] _(opt)_ antacid
+    - [ ] _(opt)_ loperamide (diarrhea)
+    - [ ] _(opt)_ activated charcoal
+    - [ ] _(opt)_ laxative
 - tools
   - [ ] small scissors
   - [ ] twizzers
-  - [ ] tick tool
-  - [ ] magnifying glass
   - [ ] cotton-tipped swabs
-  - [ ] safety pins
-  - [ ] small mirror
+  - [ ] tick tool
   - [ ] paramedic shears
-  - [ ] medical nitrile gloves (avoid latex)
+  - [ ] safety pins
+  - [ ] _(opt)_ magnifying glass
+  - [ ] _(opt)_ small mirror
+  - [ ] _(opt)_ medical nitrile gloves (avoid latex)
   - [ ] _(opt)_ CPR face shield

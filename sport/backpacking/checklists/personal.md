@@ -1,8 +1,9 @@
 # Personal Gear Checklist
 
+- [ ] _(opt)_ musical instrument
 - light
   - [ ] headlamp
-  - [ ] _(opt)_ flashlight
+  - [ ] flashlight
   - [ ] extra batteries
 - water
   - [ ] bottles: 2l or more total per person
@@ -17,18 +18,20 @@
   - [ ] insurance
 - personal care
   - [ ] personal medications
+  - [ ] _(opt)_ glasses
+    - [ ] case
   - [ ] towel
   - [ ] toothbrush
   - [ ] toothpaste (travel size)
   - [ ] hand sanitizer
   - [ ] deodorant
   - [ ] _(opt)_ facial tissue
-  - [ ] comb
-  - [ ] trowel
+  - [ ] _(opt)_ comb
+  - [ ] trowel (sanitation)
   - [ ] toilet paper (flatten the roll)
   - [ ] container or bag for used toilet paper
   - [ ] head net
-  - [ ] _(opt)_ body net
+  - [ ] body net
 - emergency
   - [ ] whistle
   - [ ] reflective blanket
@@ -40,8 +43,8 @@
     - synthetic is heavier and bulkier than down, but less affected by water and easier to care about
     - [ ] compression sack (choose right size, may prefer waterproof)
     - [ ] liner
-  - [ ] sleeping pad: regular size
-  - [ ] _(opt)_ pillow
+  - [ ] sleeping pad
+  - [ ] pillow
 - sun protection
   - [ ] hat with brims and neck protection
   - [ ] sunglasses
@@ -50,12 +53,12 @@
   - [ ] lip balm
 - dinnerware
   - [ ] mug
-  - [ ] large mug: ~32oz
+  - [ ] _(opt)_ large mug: ~32oz
   - [ ] spoon
 - footwear
   - [ ] boots
   - [ ] gaiters
-  - [ ] sandals (for using both in camp, crossing rivers)
+  - [ ] light boots or sandals (for crossing rivers, using in camp)
   - [ ] socks: wool or synthetic
     - [ ] spare socks
     - [ ] _(opt)_ liner socks
@@ -80,7 +83,10 @@
   - [ ] jacket
   - [ ] pants
 - [ ] trekking poles
-  - [ ] tip protectors
+  - [ ] _(opt)_ tip protectors
+- ice
+  - [ ] _(opt)_ ice axe
+  - [ ] _(opt)_ crampons
 - [ ] outdoor watch
 - [ ] _(opt)_ pocket blanket
 - [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need in grizzly lands

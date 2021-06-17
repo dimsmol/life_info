@@ -1,0 +1,3 @@
+- [ ] stove
+- [ ] water filter
+- [ ] lighter

@@ -3,14 +3,13 @@
 - navigation
   - [ ] [map](../maps.md)
     - [ ] protective case
-  - [ ] compass
-    - [ ] usage guide
-  - [ ] _(opt)_ GPS
-    - [ ] load [maps](../maps.md)
+  - usually not needed:
+    - [ ] compass
+      - [ ] usage guide
+    - [ ] _(opt)_ GPS
+      - [ ] load [maps](../maps.md)
 - light / electricity
   - [ ] lantern
-  - [ ] _(opt)_ candle lantern
-    - [ ] candles
   - [ ] extra batteries
   - [ ] power bank
 - fire
@@ -27,6 +26,7 @@
     - [ ] _(opt)_ heat exchanger
 - tools
   - [ ] [knife](../knives.md)
+  - [ ] small can opener
   - [ ] multi-tool
   - [ ] cord 50'
     - [ ] guide on knots
@@ -40,7 +40,6 @@
     - iodine doesn't help against Cryptosporidium
     - chlorine treated water usually needs 4 hours to help against Cryptosporidium
   - [ ] folding bucket
-  - [ ] _(opt)_ pocket shower
 - [ ] tent
   - [ ] footprint
   - [ ] repair kit
@@ -55,15 +54,13 @@
 - trip itinerary
   - [ ] left one copy with friend
   - [ ] put another copy under car seat
-- paperwork
-  - [ ] paper and pen
-  - [ ] _(opt)_ guidebook
+- [ ] paper and pen
 - sanitation / personal care
   - [ ] tweezers
   - [ ] small scissors
-  - [ ] biodegradable soap
-  - [ ] sunscreen: SPF 50 or more, uva + uvb (broad spectrum), water resistant
-  - [ ] insect repellent
+  - [ ] biodegradable soap, preferably unscented
+  - [ ] _(opt)_ sunscreen: SPF 50 or more, uva + uvb (broad spectrum), water resistant
+  - [ ] _(opt)_ insect repellent
     - herb-based (eucalyptus, citronella) is safest, but weakest option
     - for especially bad conditions consider:
       - Picaridin
@@ -72,8 +69,7 @@
 - plastic bags
   - [ ] small (for trash, used toilet paper, just in case, etc.)
   - [ ] large - unscented!!! (for dirty stuff, etc.)
-- emergency
-  - [ ] signal mirror
+- [ ] _(opt)_ signal mirror (emergency)
 - [ ] _(opt)_ [radios](../../common/radio.md)
 - [ ] _(opt)_ binoculars
   - [ ] lens cleaner
