@@ -5,9 +5,10 @@
   - [ ] blister kit
 - wounds
   - [ ] adhesive bandage (flexible fabric)
+  - [ ] rolled gauze
   - [ ] non-stick pads
-  - [ ] medical adhesive tape (cloth tape)
-  - [ ] rolled gauze / hurt-free wrap
+    - [ ] _(opt)_ hurt-free wrap
+    - [ ] _(opt)_ medical adhesive tape (cloth tape)
   - [ ] butterfly bandage / wound closure strips / stitches tape
   - [ ] _(opt)_ hemostatic gauze
   - [ ] _(opt)_ tourniquet (to stop bleeding)

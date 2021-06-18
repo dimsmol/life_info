@@ -1,3 +1,4 @@
-- [ ] stove
-- [ ] water filter
-- [ ] lighter
+- make sure they work
+  - [ ] stove
+  - [ ] water filter
+  - [ ] lighter

@@ -2,6 +2,7 @@
 
 - [ ] salt
 - [ ] coffee
+  - [ ] _(opt)_ sugar
 - [ ] _(opt)_ pre/post workout
 - [ ] protein bars
 - fruits/vegies
@@ -15,4 +16,3 @@
 - [ ] _(opt)_ bread
 - [ ] _(opt)_ canned food
 - [ ] _(opt)_ nuts (pecans, almonds)
-- [ ] _(opt)_ sugar

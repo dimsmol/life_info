@@ -3,31 +3,33 @@
 - navigation
   - [ ] [map](../maps.md)
     - [ ] protective case
-  - usually not needed:
+  - _(opt)_ usually not needed
     - [ ] compass
       - [ ] usage guide
     - [ ] _(opt)_ GPS
       - [ ] load [maps](../maps.md)
-- light / electricity
-  - [ ] lantern
+      - [ ] extra batteries
+- light
+  - [ ] _(opt)_ lantern
+  - [ ] flashlight
   - [ ] extra batteries
-  - [ ] power bank
 - fire
   - [ ] stormproof matches in waterproof container
   - [ ] strike igniter
   - [ ] lighter (BIC is ok)
-  - [ ] fire starter (can use alcohol-based hand sanitizer gel)
+    - have spare
+  - [ ] _(opt)_ fire starter (can use alcohol-based hand sanitizer gel)
 - [ ] [stove](../stoves.md)
   - [ ] fuel
-  - [ ] canister stand _(opt)_ (depending on stove)
-  - if *not* integrated:
+  - [ ] _(depends)_ canister stand (depending on stove)
+  - _(depends)_ if **not** integrated:
     - [ ] pot
     - [ ] wind screen
     - [ ] _(opt)_ heat exchanger
 - tools
   - [ ] [knife](../knives.md)
   - [ ] small can opener
-  - [ ] multi-tool
+  - [ ] _(opt)_ multi-tool
   - [ ] cord 50'
     - [ ] guide on knots
   - [ ] sewing kit
@@ -36,28 +38,32 @@
   - [ ] _(opt)_ buckles
 - water
   - [ ] filter
+    - [ ] water bags to use with filter
+    - [ ] syringe for cleaning filter
+    - [ ] _(opt)_ straps and and misc for hanging
+      - [ ] _(opt)_ valve and misc for washing hands
   - [ ] chlorine or iodine backup chemical purifier
     - iodine doesn't help against Cryptosporidium
     - chlorine treated water usually needs 4 hours to help against Cryptosporidium
-  - [ ] folding bucket
+  - [ ] _(opt)_ folding bucket
 - [ ] tent
   - [ ] footprint
   - [ ] repair kit
   - [ ] additional/better stakes
     - ground hog can be hard to pull out
+    - steel ones are heavy, but great for rocky ground
   - [ ] _(opt)_ hammer
-- permits
-  - use waterproof paper
+- permits (use waterproof paper)
   - [ ] california fire permit
-  - [ ] FCC (radio/GMRS) permit
   - [ ] backpacking permit
+  - [ ] _(opt)_ FCC (radio/GMRS) permit
 - trip itinerary
   - [ ] left one copy with friend
   - [ ] put another copy under car seat
 - [ ] paper and pen
 - sanitation / personal care
-  - [ ] tweezers
   - [ ] small scissors
+  - [ ] tweezers
   - [ ] biodegradable soap, preferably unscented
   - [ ] _(opt)_ sunscreen: SPF 50 or more, uva + uvb (broad spectrum), water resistant
   - [ ] _(opt)_ insect repellent
@@ -66,10 +72,8 @@
       - Picaridin
       - DEET (may damage some plastics and fabrics)
       - Permethrin (for clothes only, deadly for cats!!!)
-- plastic bags
-  - [ ] small (for trash, used toilet paper, just in case, etc.)
-  - [ ] large - unscented!!! (for dirty stuff, etc.)
 - [ ] _(opt)_ signal mirror (emergency)
 - [ ] _(opt)_ [radios](../../common/radio.md)
+  - [ ] extra batteries
 - [ ] _(opt)_ binoculars
-  - [ ] lens cleaner
+  - [ ] _(opt)_ lens cleaner

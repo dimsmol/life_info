@@ -1,14 +1,15 @@
 # Personal Gear Checklist
 
 - [ ] _(opt)_ musical instrument
-- light
+- maps (make available offline on your phone)
+  - [ ] trail maps
+  - [ ] road maps for the whole trip
+- light / power
   - [ ] headlamp
-  - [ ] flashlight
-  - [ ] extra batteries
-- water
-  - [ ] bottles: 2l or more total per person
-    - metal one can be used for boiling in emergency situation
-  - [ ] _(opt)_ folding bucket
+    - [ ] extra batteries
+  - [ ] power bank
+- [ ] water bottles: 2l or more total per person
+  - metal one can be used for boiling in emergency situation
 - [ ] bear canister
   - check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
 - paperwork
@@ -33,6 +34,9 @@
   - [ ] container or bag for used toilet paper
   - [ ] head net
   - [ ] body net
+- plastic bags
+  - [ ] small (for trash, used toilet paper, just in case, etc.)
+  - [ ] large - unscented!!! (for dirty stuff, etc.)
 - emergency
   - [ ] whistle
   - [ ] emergency bivy or reflective blanket
@@ -85,9 +89,9 @@
   - [ ] pants
 - [ ] trekking poles
   - [ ] _(opt)_ tip protectors
-- ice
-  - [ ] _(opt)_ ice axe
-  - [ ] _(opt)_ crampons
-- [ ] outdoor watch
+- _(depends)_ ice (usually not needed)
+  - [ ] ice axe
+  - [ ] crampons
+- [ ] _(opt)_ outdoor watch
 - [ ] _(opt)_ pocket blanket
 - [ ] _(depends)_ bear spay: forbidden in most CA areas, but may need in grizzly lands
