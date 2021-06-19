@@ -1,16 +1,32 @@
-## Driving
+## driving
 
+- Google Maps - good for driving only (lacks most of the trails)
+  - make sure to download needed parts offline and renew when needed (they expire)
 - Rest Areas can be found [here](http://quickmap.dot.ca.gov/)
   - in CA you can sleep in a car at a Rest Area for 8 hours within 24 interval
 
-## Paper
+## phone - trails
+
+- [Organic Maps](https://organicmaps.app/)
+  - based on OpenStreetMap
+  - successor of Maps.me
+  - a bit immature yet (bugs, features)
+- [Maps.me](https://maps.me/)
+  - based on OpenStreetMap
+  - commercialized some time ago and had some related incidents
+  - looks ok now, but it's better to have an alternative just in case
+- [OsmAnd](https://osmand.net/)
+  - based on OpenStreetMap
+  - nice idea, bad usability
+
+## paper
 
 - [AllTrails](https://www.alltrails.com/) is good for printing
   - use "1:24k Exact" scale if not sure
   - print at FedEx or [spinnprint](https://www.spinnprint.com/)
   - use [waterproof paper](https://www.rei.com/product/896272/)
 
-## For GPS
+## GPS
 
 - Garmin topo maps aren't good, don't buy them
 - use [OSM](https://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin) instead:
