@@ -12,6 +12,8 @@
   - metal one can be used for boiling in emergency situation
 - [ ] bear canister
   - check it's approved where you're going (example: [yosemite approved](https://www.nps.gov/yose/planyourvisit/containers.htm))
+  - [ ] _(depends)_ quarter for opening bear canister
+    - have spare
 - paperwork
   - [ ] id
   - [ ] credit card

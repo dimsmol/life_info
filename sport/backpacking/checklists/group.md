@@ -36,6 +36,7 @@
   - [ ] duct tape
   - [ ] _(opt)_ fabric patches
   - [ ] _(opt)_ buckles
+    - [ ] _(depends)_ screwdriver (if needed for buckles and not part of multi-tool)
 - water
   - [ ] filter
     - [ ] water bags to use with filter
