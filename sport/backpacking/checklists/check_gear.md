@@ -2,3 +2,14 @@
   - [ ] stove
   - [ ] water filter
   - [ ] lighter
+  - also
+    - [ ] watch
+    - [ ] headlamp, flashlight, lantern, etc.
+    - [ ] radios, GPS, etc.
+  - also
+    - [ ] air sleeping pad, air pillow, etc.
+- charge
+  - [ ] power bank
+  - [ ] devices with batteries, if any
+    - radios, GPS, etc.
+  - [ ] rechargable batteries, if any
