@@ -16,7 +16,7 @@ For windburner:
 - 2.3l water boiled per 1oz fuel
 - 1x8oz fuel canister makes 18.4l of boiled water
 - 1 meal needs ~ 1l (meal itself + boiled water for drinking)
-- 18.4l ~ 18 meals
-- 18 meals ~ 6-9 days for 1 person
+- 1 person*day needs ~2.5l (for 2 meals + 0.5l for breakfast)
+- 18.4l ~ 6-7 days for 1 person
 
 WARN: Need more fuel if need melting snow!

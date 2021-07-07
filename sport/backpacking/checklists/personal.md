@@ -29,6 +29,7 @@
   - [ ] toothpaste (travel size)
   - [ ] hand sanitizer
   - [ ] deodorant
+  - [ ] lip balm
   - [ ] _(opt)_ facial tissue
   - [ ] _(opt)_ comb
   - [ ] trowel (sanitation)
@@ -51,13 +52,15 @@
     - [ ] compression sack (choose right size, may prefer waterproof)
     - [ ] liner
   - [ ] sleeping pad
+    - _(depends)_ for air pad:
+      - [ ] repair kit
+      - [ ] _(opt)_ air pump sack
   - [ ] pillow
 - sun protection
   - [ ] hat with brims and neck protection
   - [ ] sunglasses
     - [ ] retainer
     - [ ] case
-  - [ ] lip balm
 - dinnerware
   - [ ] mug
   - [ ] _(opt)_ large mug: ~32oz
@@ -91,7 +94,7 @@
   - [ ] pants
 - [ ] trekking poles
   - [ ] _(opt)_ tip protectors
-- _(depends)_ ice (usually not needed)
+- _(depends)_ ice gear (usually not needed)
   - [ ] ice axe
   - [ ] crampons
 - [ ] _(opt)_ outdoor watch
