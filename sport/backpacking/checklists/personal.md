@@ -67,7 +67,7 @@
   - [ ] spoon
 - footwear
   - [ ] boots
-  - [ ] gaiters
+  - [ ] _(opt)_ gaiters
   - [ ] light boots or sandals (for crossing rivers, using in camp)
   - [ ] socks: wool or synthetic
     - [ ] spare socks
