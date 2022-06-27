@@ -10,14 +10,14 @@
 - [Organic Maps](https://organicmaps.app/)
   - based on OpenStreetMap
   - successor of Maps.me
-  - a bit immature yet (bugs, features)
-- [Maps.me](https://maps.me/)
-  - based on OpenStreetMap
-  - commercialized some time ago and had some related incidents
-  - looks ok now, but it's better to have an alternative just in case
-- [OsmAnd](https://osmand.net/)
-  - based on OpenStreetMap
-  - nice idea, bad usability
+- avoid
+  - [Maps.me](https://maps.me/)
+    - based on OpenStreetMap
+    - commercialized some time ago and had some related incidents
+    - looks ok now, but it's better to have an alternative just in case
+  - [OsmAnd](https://osmand.net/)
+    - based on OpenStreetMap
+    - bad usability
 
 ## paper
 
