@@ -38,8 +38,9 @@
   - [ ] head net
   - [ ] body net
 - plastic bags
-  - [ ] small (for trash, used toilet paper, just in case, etc.)
+  - [ ] small (for trash, just in case, etc.)
   - [ ] large - unscented!!! (for dirty stuff, etc.)
+  - [ ] ziplocks for opened cans and other rough trash
 - emergency
   - [ ] whistle
   - [ ] emergency bivy or reflective blanket
