@@ -20,23 +20,23 @@
   - [ ] money in cash
   - [ ] insurance
 - personal care
-  - [ ] personal medications
   - [ ] _(opt)_ glasses
     - [ ] case
+  - [ ] personal medications
   - [ ] towel
   - [ ] toothbrush
-  - [ ] _(opt)_ floss
+    - [ ] _(opt)_ floss
   - [ ] toothpaste (travel size)
   - [ ] hand sanitizer
   - [ ] deodorant
-  - [ ] lip balm
-  - [ ] _(opt)_ facial tissue
-  - [ ] _(opt)_ comb
   - [ ] trowel (sanitation)
   - [ ] toilet paper (flatten the roll)
   - [ ] container or bag for used toilet paper
   - [ ] head net
   - [ ] body net
+  - [ ] _(opt)_ lip balm
+  - [ ] _(opt)_ facial tissue
+  - [ ] _(opt)_ comb
 - plastic bags
   - [ ] small (for trash, just in case, etc.)
   - [ ] large - unscented!!! (for dirty stuff, etc.)
@@ -59,16 +59,16 @@
   - [ ] pillow
 - sun protection
   - [ ] hat with brims and neck protection
-  - [ ] sunglasses
+  - [ ] _(opt)_ sunglasses
     - [ ] retainer
     - [ ] case
 - dinnerware
   - [ ] mug
-  - [ ] _(opt)_ large mug: ~32oz
   - [ ] spoon
+  - [ ] _(opt)_ large mug: ~32oz
 - footwear
   - [ ] boots
-  - [ ] _(opt)_ gaiters
+    - [ ] _(opt)_ gaiters
   - [ ] light boots or sandals (for crossing rivers, using in camp)
   - [ ] socks: wool or synthetic
     - [ ] spare socks

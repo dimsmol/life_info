@@ -10,9 +10,9 @@
       - [ ] load [maps](../maps.md)
       - [ ] extra batteries
 - light
-  - [ ] _(opt)_ lantern
   - [ ] flashlight
   - [ ] extra batteries
+  - [ ] _(opt)_ lantern
 - fire
   - [ ] stormproof matches in waterproof container
   - [ ] strike igniter
@@ -29,11 +29,11 @@
 - tools
   - [ ] [knife](../knives.md)
   - [ ] small can opener
-  - [ ] _(opt)_ multi-tool
   - [ ] cord 50'
     - [ ] guide on knots
   - [ ] sewing kit
   - [ ] duct tape
+  - [ ] _(opt)_ multi-tool
   - [ ] _(opt)_ fabric patches
   - [ ] _(opt)_ buckles
     - [ ] _(depends)_ screwdriver (if needed for buckles and not part of multi-tool)

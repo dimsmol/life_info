@@ -7,8 +7,8 @@
   - [ ] adhesive bandage (flexible fabric)
   - [ ] rolled gauze
   - [ ] non-stick pads
-    - [ ] _(opt)_ hurt-free wrap
-    - [ ] _(opt)_ medical adhesive tape (cloth tape)
+    - [ ] hurt-free wrap
+    - [ ] medical adhesive tape (cloth tape)
   - [ ] butterfly bandage / wound closure strips / stitches tape
   - [ ] _(opt)_ hemostatic gauze
   - [ ] _(opt)_ tourniquet (to stop bleeding)
