@@ -1,5 +1,8 @@
 # Group Gear Checklist
 
+- rescue
+  - _(opt)_ emergency SOS device (prefferably a communicator)
+  - _(opt)_ consider insurance covering SAR
 - navigation
   - [ ] [map](../maps.md)
     - [ ] protective case
@@ -58,7 +61,7 @@
   - [ ] california fire permit
   - [ ] backpacking permit
   - [ ] _(opt)_ FCC (radio/GMRS) permit
-- trip itinerary
+- trip itinerary, gear photo, footprint photo
   - [ ] left one copy with friend
   - [ ] put another copy under car seat
 - [ ] paper and pen

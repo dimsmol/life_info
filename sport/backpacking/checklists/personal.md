@@ -27,6 +27,7 @@
   - [ ] toothbrush
     - [ ] _(opt)_ floss
   - [ ] toothpaste (travel size)
+  - [ ] toothpicks
   - [ ] hand sanitizer
   - [ ] deodorant
   - [ ] trowel (sanitation)
@@ -78,7 +79,7 @@
       - [ ] _(opt)_ include long sleeve for sun protection
   - bottom
     - [ ] pants
-    - [ ] shorts
+    - [ ] _(opt)_ shorts
     - [ ] synthetic underpants
     - [ ] swimming trunks
   - warm
